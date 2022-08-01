@@ -1,4 +1,4 @@
-name: 'Preview Dev PR'
+name: 'Build Image on PR Creation ~ Optional: Deploy Preview Instances'
 
 on:
   pull_request:
