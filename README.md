@@ -1,9 +1,3 @@
-# Craft CMS Starter Project
-
-## Generating a New Project from this Repo
-
-If you are viewing this README on Github you will see a green button above with the text "Use this template". Click that button to create a brand new repository for your new project. This README, along with the files/folders, will be copied over to the new repo and can be used as instructions on how to get up-and-going fairly quickly.
-
 # Craft headless CMS Backend/API
 
 Headless Craft headless CMS backend intended to be used with the Rubin EPO [next-template](https://github.com/lsst-epo/next-template/).
