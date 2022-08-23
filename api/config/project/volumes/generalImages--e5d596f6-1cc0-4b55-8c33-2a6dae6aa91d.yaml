@@ -1,5 +1,5 @@
 fieldLayouts:
-  20979f8e-10d5-4ac3-9946-bb661cd56a3d:
+  80e92c01-6237-493c-ab12-24da919aca7b:
     tabs:
       -
         elements:
@@ -26,15 +26,29 @@ fieldLayouts:
             type: craft\fieldlayoutelements\AssetTitleField
             warning: null
             width: 100
+          -
+            fieldUid: 39af5de5-d299-4bc5-965a-af2d128c7f1a # Alternative Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
         name: Content
         sortOrder: 1
-handle: cantoDam
+handle: generalImages
 hasUrls: true
-name: 'Canto DAM'
+name: General
 settings:
-  quickTest: eric
-sortOrder: 9
+  bucket: $GCS_GENERAL_BUCKET
+  bucketSelectionMode: manual
+  expires: '5 minutes'
+  keyFileContents: ''
+  projectId: $GCP_PROJECT_ID
+  subfolder: ''
+sortOrder: 10
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
-type: rosas\dam\volumes\DAMVolume
-url: $CANTO_ASSET_BASEURL
+type: craft\googlecloud\Volume
+url: '@assets'

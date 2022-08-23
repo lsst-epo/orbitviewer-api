@@ -1,4 +1,4 @@
-dateModified: 1658164689
+dateModified: 1661289159
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -49,7 +49,6 @@ meta:
     4294fb85-8029-437c-a2e5-76bcd1a79ef1: Asset # Asset
     5075e912-4aa1-4ce4-96b2-8868358b51e3: Header # Header
     5548b745-642b-4b15-8f17-4ce7457689a8: Header # Header
-    7754bae8-c6eb-4fbe-882b-236621e35f2d: 'Canto DAM' # Canto DAM
     7970cd65-7a96-418a-8581-d6df4e039e6d: 'Plain Text' # Plain Text
     8145b1c9-cb8f-4c86-91ba-34fe5ded34e6: Homepage # Homepage
     547128fa-4529-4483-9968-66425996b69f: EN # EN
@@ -72,6 +71,7 @@ meta:
     d889713c-632a-4323-bb10-4b2bc53545ad: Asset # Asset
     ddf8dce2-4fa1-43d1-b306-b34d9d97a91b: Content # Content
     dff2a767-333e-4c9d-880c-143e1ca2aaa3: 'Row Content' # Row Content
+    e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d: General # General
     e217cce2-4f3d-44f9-90c5-42149175876a: Text # Text
     e338eebb-6488-4f58-a07e-db43f28ff56b: Image # Image
     e24265aa-f05d-42eb-8d44-1ead0005aec1: Link # Link
@@ -84,6 +84,10 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 3.0.0
+  google-cloud:
+    edition: standard
+    enabled: true
+    schemaVersion: '1.1'
   neo:
     edition: standard
     enabled: true
