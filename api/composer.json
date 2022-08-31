@@ -1,12 +1,8 @@
 {
     "minimum-stability": "dev",
     "require": {
-<<<<<<< HEAD
         "craftcms/cms": "3.7.52",
         "craftcms/google-cloud": "1.4.1",
-=======
-        "craftcms/cms": "3.7.51",
->>>>>>> 1c0d5e8 (Add existing files)
         "craftcms/redactor": "2.10.10",
         "sebastianlenz/linkfield": "2.0.0-rc.2",
         "spicyweb/craft-neo": "2.13.15",
