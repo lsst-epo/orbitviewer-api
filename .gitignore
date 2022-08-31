@@ -5,3 +5,7 @@ log/error.log
 .env
 app.yaml
 google-app-credentials.json
+
+/node_modules
+yarn-error.log
+package-lock.json
