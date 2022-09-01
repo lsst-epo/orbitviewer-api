@@ -27,6 +27,15 @@ fieldLayouts:
             type: craft\fieldlayoutelements\TitleField
             warning: null
             width: 100
+          -
+            fieldUid: 2817d4b1-3f70-458a-81c2-f82491ce138c # Main Color
+            instructions: 'Used for icons among other things. '
+            label: ''
+            required: ''
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
         name: Content
         sortOrder: 1
 handle: objectTypes

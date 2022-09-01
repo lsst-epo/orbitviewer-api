@@ -1,4 +1,4 @@
-dateModified: 1662021423
+dateModified: 1662022292
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -64,6 +64,7 @@ meta:
     966a6b65-ca53-48a8-89dc-74983cd624ef: Title # Title
     991c5031-3b97-45d8-8829-c8e0c79537a9: 'Row Title' # Row Title
     2755abe1-7dd5-428c-a6bb-30d2bd59a362: Link # Link
+    2817d4b1-3f70-458a-81c2-f82491ce138c: 'Main Color' # Main Color
     3182a473-667d-439f-9cf2-b545be5c23d3: Fulldesignation # Fulldesignation
     3400f929-2ff0-47da-8c15-40bce8b6cebf: 'Customize Orbits' # Customize Orbits
     4294fb85-8029-437c-a2e5-76bcd1a79ef1: Asset # Asset
@@ -104,6 +105,7 @@ meta:
     cee5c2f8-2801-42c2-a56c-4fe40c85b6f3: 'Site Information' # Site Information
     d019727b-a6d5-43d9-a688-f10df985a87e: Link # Link
     d3d6215a-2225-4541-b17d-74eb58445af5: 'Default Slide' # Default Slide
+    d88e4d7c-567a-4c5b-b0c3-6036b75d87df: 'Object Types' # Object Types
     d889713c-632a-4323-bb10-4b2bc53545ad: Asset # Asset
     ddf8dce2-4fa1-43d1-b306-b34d9d97a91b: Content # Content
     dff2a767-333e-4c9d-880c-143e1ca2aaa3: 'Row Content' # Row Content
