@@ -1,4 +1,4 @@
-dateModified: 1662019218
+dateModified: 1662020239
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -54,7 +54,6 @@ meta:
     56f784c1-2182-4a9a-9e20-2e30e7b4a2bd: 'Solar system Elements' # Solar system Elements
     59e08766-55d3-4cb0-8b02-b406b1ea45d8: 'Solar system Elements' # Solar system Elements
     68ce46bb-bb2f-4e55-8009-fe56a7d4493b: Header # Header
-    70ff59dd-8280-4bea-bef6-cfdf9ea4f0c2: 'Sort Options' # Sort Options
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
     380c1cbe-884e-421b-9e31-1f0dfc81e15f: 'Cell Width' # Cell Width
@@ -62,7 +61,6 @@ meta:
     522bc2d7-fcc3-4817-a986-5c860e53351c: 'Internal Entry' # Internal Entry
     641bcbaa-093a-41bc-a403-6696f52ce6a9: 'Page Type' # Page Type
     907d717b-d9ff-4449-abbf-7c7f5823851b: 'Guided Experiences Page' # Guided Experiences Page
-    0928ff1a-513d-41e0-acc1-606d93988618: 'Search Filters' # Search Filters
     966a6b65-ca53-48a8-89dc-74983cd624ef: Title # Title
     991c5031-3b97-45d8-8829-c8e0c79537a9: 'Row Title' # Row Title
     2755abe1-7dd5-428c-a6bb-30d2bd59a362: Link # Link
