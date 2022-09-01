@@ -1,4 +1,4 @@
-dateModified: 1661933343
+dateModified: 1662022292
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -28,7 +28,6 @@ meta:
     3c4d26f3-4aa2-48fd-8dd8-400929f9210e: Tours # Tours
     3cbe4fda-03b6-4891-b0ac-892db5b17bb8: Landing # Landing
     3df02181-c6a1-4e72-98fb-f91def384206: Entry # Entry
-    3e10dcca-4dd1-4578-8add-708cd9740881: Homepage # Homepage
     4b94ba3d-060c-4a09-b2dc-c519a4c83709: 'Cell Content' # Cell Content
     4c6c84cf-d5a1-4d83-a3fa-e1d0276c9ae4: 'Content Blocks' # Content Blocks
     4c977b75-9ee1-4cdb-9d2a-203639f4af84: Links # Links
@@ -48,7 +47,6 @@ meta:
     9f7b6402-ce3b-4a99-9180-c0c6c3915642: flexible # flexible
     16e8811b-6d9d-44e1-83b2-16c02e1dcd5a: 'Landing Version' # Landing Version
     20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35: Title # Title
-    23eda090-7e8e-401d-ab49-ee4becc34935: Pages # Pages
     37b1d17c-d8d5-45f3-9c15-14ef09b62add: 'Tour Picker' # Tour Picker
     39af5de5-d299-4bc5-965a-af2d128c7f1a: 'Alternative Text' # Alternative Text
     45e9d096-0ab6-4324-af5e-61a1be9cff83: 'Sub Title' # Sub Title
@@ -56,7 +54,6 @@ meta:
     56f784c1-2182-4a9a-9e20-2e30e7b4a2bd: 'Solar system Elements' # Solar system Elements
     59e08766-55d3-4cb0-8b02-b406b1ea45d8: 'Solar system Elements' # Solar system Elements
     68ce46bb-bb2f-4e55-8009-fe56a7d4493b: Header # Header
-    70ff59dd-8280-4bea-bef6-cfdf9ea4f0c2: 'Sort Options' # Sort Options
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
     380c1cbe-884e-421b-9e31-1f0dfc81e15f: 'Cell Width' # Cell Width
@@ -64,10 +61,10 @@ meta:
     522bc2d7-fcc3-4817-a986-5c860e53351c: 'Internal Entry' # Internal Entry
     641bcbaa-093a-41bc-a403-6696f52ce6a9: 'Page Type' # Page Type
     907d717b-d9ff-4449-abbf-7c7f5823851b: 'Guided Experiences Page' # Guided Experiences Page
-    0928ff1a-513d-41e0-acc1-606d93988618: 'Search Filters' # Search Filters
     966a6b65-ca53-48a8-89dc-74983cd624ef: Title # Title
     991c5031-3b97-45d8-8829-c8e0c79537a9: 'Row Title' # Row Title
     2755abe1-7dd5-428c-a6bb-30d2bd59a362: Link # Link
+    2817d4b1-3f70-458a-81c2-f82491ce138c: 'Main Color' # Main Color
     3182a473-667d-439f-9cf2-b545be5c23d3: Fulldesignation # Fulldesignation
     3400f929-2ff0-47da-8c15-40bce8b6cebf: 'Customize Orbits' # Customize Orbits
     4294fb85-8029-437c-a2e5-76bcd1a79ef1: Asset # Asset
@@ -77,7 +74,6 @@ meta:
     7559fb47-f35b-436d-aceb-300a233317b8: 'Customize Orbits Description' # Customize Orbits Description
     7754bae8-c6eb-4fbe-882b-236621e35f2d: 'Canto DAM' # Canto DAM
     7970cd65-7a96-418a-8581-d6df4e039e6d: 'Plain Text' # Plain Text
-    8145b1c9-cb8f-4c86-91ba-34fe5ded34e6: Homepage # Homepage
     9829e8e1-9862-44ab-902c-90a72e4a81b7: Landing # Landing
     52519e78-2e53-47c5-aa84-c2345d520393: About # About
     547128fa-4529-4483-9968-66425996b69f: EN # EN
@@ -109,6 +105,7 @@ meta:
     cee5c2f8-2801-42c2-a56c-4fe40c85b6f3: 'Site Information' # Site Information
     d019727b-a6d5-43d9-a688-f10df985a87e: Link # Link
     d3d6215a-2225-4541-b17d-74eb58445af5: 'Default Slide' # Default Slide
+    d88e4d7c-567a-4c5b-b0c3-6036b75d87df: 'Object Types' # Object Types
     d889713c-632a-4323-bb10-4b2bc53545ad: Asset # Asset
     ddf8dce2-4fa1-43d1-b306-b34d9d97a91b: Content # Content
     dff2a767-333e-4c9d-880c-143e1ca2aaa3: 'Row Content' # Row Content
@@ -122,7 +119,6 @@ meta:
     ea7cafd8-b2d5-4ffb-b9fb-9a617eef9dfb: Complexity # Complexity
     ec809547-cd72-4016-92f4-e72a89d6620c: Default # Default
     ef474ef1-31d2-45c5-8419-cb15202ba296: 'Guided Experiences Tours' # Guided Experiences Tours
-    f1b8c943-bc12-4001-9e2a-d531379f1aaf: Pages # Pages
     f1df2c63-97e5-49f0-8f4d-1e704d4945ac: Landing # Landing
     f444667c-6ea1-4e0f-89b2-35b059e27bfc: Link # Link
     fd26bd16-cdc1-44cf-af77-ceb7ecc98e42: Tours # Tours
