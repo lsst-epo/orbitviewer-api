@@ -1,9 +1,9 @@
-columnSuffix: uibnisuw
+columnSuffix: sfpykegh
 contentColumnType: text
-fieldGroup: 0eccfbd3-ee20-4548-bc48-01195998260d # Customize Orbits
-handle: customizeOrbitsButton
+fieldGroup: 1655338e-aa59-49ef-ab90-aac2117ecdeb # Share Tab
+handle: getSnapshotText
 instructions: ''
-name: 'Customize Orbits Button'
+name: 'Get Snapshot Text'
 searchable: false
 settings:
   byteLimit: null

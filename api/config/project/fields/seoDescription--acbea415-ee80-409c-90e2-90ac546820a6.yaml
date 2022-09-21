@@ -1,9 +1,9 @@
-columnSuffix: uibnisuw
+columnSuffix: null
 contentColumnType: text
-fieldGroup: 0eccfbd3-ee20-4548-bc48-01195998260d # Customize Orbits
-handle: customizeOrbitsButton
+fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Default SEO
+handle: seoDescription
 instructions: ''
-name: 'Customize Orbits Button'
+name: 'SEO Description'
 searchable: false
 settings:
   byteLimit: null

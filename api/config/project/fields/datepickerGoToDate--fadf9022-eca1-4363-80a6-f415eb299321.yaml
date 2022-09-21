@@ -1,9 +1,9 @@
-columnSuffix: uibnisuw
+columnSuffix: wtnyawtf
 contentColumnType: text
-fieldGroup: 0eccfbd3-ee20-4548-bc48-01195998260d # Customize Orbits
-handle: customizeOrbitsButton
+fieldGroup: b965ebe0-86b2-4a2e-8cf2-66db5d5f46d0 # DatePicker Tab Texts
+handle: datepickerGoToDate
 instructions: ''
-name: 'Customize Orbits Button'
+name: 'DatePicker Go to Date'
 searchable: false
 settings:
   byteLimit: null

@@ -1,9 +1,9 @@
-columnSuffix: uibnisuw
+columnSuffix: oidovtvd
 contentColumnType: text
-fieldGroup: 0eccfbd3-ee20-4548-bc48-01195998260d # Customize Orbits
-handle: customizeOrbitsButton
+fieldGroup: 5b5c2953-79f7-498a-bae7-94a08ec2f8ab # Common Strings
+handle: commonFar
 instructions: ''
-name: 'Customize Orbits Button'
+name: Far
 searchable: false
 settings:
   byteLimit: null

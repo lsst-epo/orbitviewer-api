@@ -14,7 +14,10 @@ scope:
   - 'sections.59e08766-55d3-4cb0-8b02-b406b1ea45d8:read' # Solar system Elements
   - 'entrytypes.ec809547-cd72-4016-92f4-e72a89d6620c:read' # Default
   - 'volumes.7754bae8-c6eb-4fbe-882b-236621e35f2d:read' # Canto DAM
+  - 'globalsets.8ccd6c1c-8e9b-44e8-93a9-f62589fb4819:read' # Default SEO
+  - 'globalsets.02de342e-be45-47fd-84a4-bfbc0528e973:read' # Share
+  - 'globalsets.b2328e86-9d0d-4646-8085-e8077ee866a6:read' # Menu Texts
+  - 'globalsets.9145c52c-d87c-4799-8f76-7fb3c6f22aa6:read' # DatePicker Tab Texts
+  - 'globalsets.b7734fdb-b933-4da4-b794-efe19985732a:read' # Common Strings
   - 'categorygroups.c0bf4db2-5962-4328-abcd-e6a0af1fbfc5:read' # Object types
-  - 'categorygroups.0928ff1a-513d-41e0-acc1-606d93988618:read'
-  - 'categorygroups.70ff59dd-8280-4bea-bef6-cfdf9ea4f0c2:read'
   - 'categorygroups.fd26bd16-cdc1-44cf-af77-ceb7ecc98e42:read' # Tours

@@ -1,108 +1,95 @@
 fieldLayouts:
-  3a661c42-268a-4134-af14-45715ef1c9c2:
+  be794d37-5f99-4adf-af45-94f8a1d18362:
     tabs:
       -
         elements:
           -
-            fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # Title
+            fieldUid: a5d58b4b-7ea2-4626-a2aa-4ab4b6e215c7 # Edit
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # Description
+            fieldUid: 31e87e52-ecde-4fb4-b8d4-0bc17ddba4f7 # Apply
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: e46ce1e1-606c-4043-acea-5ddab0358221
+            fieldUid: 22edc2f0-4993-43c9-b35e-319f2deaf730 # Cancel
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
-        name: Metadata
+            width: 50
+          -
+            fieldUid: b9a006e5-24a8-4ff3-acc9-e8457785163c # Reset
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Buttons
         sortOrder: 1
       -
         elements:
           -
-            fieldUid: 033c2694-fbf5-48d0-aa4f-7d14e86f0aa8
+            fieldUid: 6b607634-7580-4f3a-9958-c7883897e1c0 # Near
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: 5b0d5d69-4003-4a56-8940-b9cbc2d691e8
+            fieldUid: 6bfb86e1-cb0b-4784-8066-ab45ba52b3e2 # Far
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: bc12b31b-5681-4d9c-bbc1-80042dca1a82
+            fieldUid: 6fa60013-56a6-4e61-8935-871e6cca0536 # Past
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: fba2e6e2-54d4-47e5-94de-b140c01cbed6
+            fieldUid: 889fb8bb-51de-48ae-9f65-5df124aec8a7 # Future
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
-            fieldUid: 31bdcba6-2552-4cc2-8e02-e4a057a0edf0
+            fieldUid: 6d856af2-d9d3-4725-a80d-dd0022c0c4b1 # Filter
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
-          -
-            fieldUid: 40ee52fe-bbe1-4b44-97ea-ef987105496b
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-        name: 'Social Media'
+            width: 50
+        name: Strings
         sortOrder: 2
-      -
-        elements:
-          -
-            fieldUid: d7bdf364-6905-4919-b4b1-08f0010d7a08
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-        name: 'Contact Info'
-        sortOrder: 3
-handle: siteInfo
-name: 'Site Information'
-sortOrder: 0
+handle: commonStrings
+name: 'Common Strings'
+sortOrder: 4

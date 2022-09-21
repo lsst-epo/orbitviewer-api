@@ -1,0 +1,64 @@
+fieldLayouts:
+  8b6acba4-ad58-4ad6-96f4-f72c190974ac:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: a201875a-24e2-4cb9-89ab-0442461f589f # Tab Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: f004ebee-da80-4d14-a9f7-7fe7ae4058e8 # Get URL Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 7958b003-32f3-4a7e-b959-2e883e77af83 # Facebook Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: cf5318f6-ae6b-43b2-86ba-c1ac7addc1bc # Twitter Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: b128894d-4132-449c-8dbe-ad1fe8051aef # Get Snapshot Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: b71b38e4-9789-440e-b665-4359ddac23b2 # Email Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Texts
+        sortOrder: 1
+handle: share
+name: Share
+sortOrder: 1
