@@ -90,6 +90,28 @@ fieldLayouts:
             width: 50
         name: Strings
         sortOrder: 2
+      -
+        elements:
+          -
+            fieldUid: 3c3371e1-1c92-4e4b-acad-5748d1ba9713 # Search Placeholder
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: aedb4cc7-8e36-49f3-affd-eeecf690a5a6 # Show Random Object Button
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Search
+        sortOrder: 3
 handle: commonStrings
 name: 'Common Strings'
 sortOrder: 4

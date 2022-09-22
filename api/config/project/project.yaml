@@ -1,4 +1,4 @@
-dateModified: 1663776971
+dateModified: 1663843854
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -28,6 +28,7 @@ meta:
     02de342e-be45-47fd-84a4-bfbc0528e973: Share # Share
     2f6b435a-5a6c-4f32-b8b5-4aae301d1738: 'Customize Orbits' # Customize Orbits
     3c4d26f3-4aa2-48fd-8dd8-400929f9210e: Tours # Tours
+    3c3371e1-1c92-4e4b-acad-5748d1ba9713: 'Search Placeholder' # Search Placeholder
     3cbe4fda-03b6-4891-b0ac-892db5b17bb8: Landing # Landing
     3df02181-c6a1-4e72-98fb-f91def384206: Entry # Entry
     4b94ba3d-060c-4a09-b2dc-c519a4c83709: 'Cell Content' # Cell Content
@@ -103,6 +104,7 @@ meta:
     a201875a-24e2-4cb9-89ab-0442461f589f: 'Tab Title' # Tab Title
     a1432247-e10b-4c71-b669-23798d01a022: 'Intro Slide' # Intro Slide
     acbea415-ee80-409c-90e2-90ac546820a6: 'SEO Description' # SEO Description
+    aedb4cc7-8e36-49f3-affd-eeecf690a5a6: 'Show Random Object Button' # Show Random Object Button
     af1b8590-3d8a-4eb1-90e1-60e3d7407a1a: 'Link text' # Link text
     b9a006e5-24a8-4ff3-acc9-e8457785163c: Reset # Reset
     b49a6e91-b631-4ade-92cc-8c3e3f6db788: 'Customize Orbits Title' # Customize Orbits Title
