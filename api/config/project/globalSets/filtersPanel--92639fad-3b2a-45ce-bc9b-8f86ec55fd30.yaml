@@ -1,5 +1,5 @@
 fieldLayouts:
-  287314c0-b557-40d3-83b5-84637048f850:
+  3d1f3439-cf5d-44bf-9e9f-e30db3db8c23:
     tabs:
       -
         elements:
@@ -11,7 +11,7 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
             fieldUid: fc53e1f0-3f64-42f2-a532-79469490caaa # Menu Subtitle
             instructions: null
@@ -20,7 +20,7 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
             fieldUid: f5b01309-7a7a-4ae7-898c-eaea681e11a5 # Section 1 Title
             instructions: null
@@ -29,7 +29,7 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
           -
             fieldUid: 255abff9-94b4-4966-b0e9-f4a57d309ef0 # Section 2 Title
             instructions: null
@@ -38,9 +38,27 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 50
+          -
+            fieldUid: 7a9c00a3-295f-4dbd-be7b-6e239220190d # Apply Filter
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 46712e44-558d-4331-b184-c10c946a093d # Reset Filter
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
         name: Texts
         sortOrder: 1
-handle: menuTexts
-name: 'Menu Texts'
-sortOrder: 2
+handle: filtersPanel
+name: 'Filters Panel'
+sortOrder: 4

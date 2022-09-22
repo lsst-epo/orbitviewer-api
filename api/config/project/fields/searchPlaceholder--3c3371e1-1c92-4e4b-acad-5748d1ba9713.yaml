@@ -1,9 +1,9 @@
-columnSuffix: ihuotsfi
+columnSuffix: hxbakzxa
 contentColumnType: text
 fieldGroup: 5b5c2953-79f7-498a-bae7-94a08ec2f8ab # Common Strings
-handle: commonShowRandomObjectButton
+handle: searchPlaceholder
 instructions: ''
-name: 'Show Random Object Button'
+name: 'Search Placeholder'
 searchable: false
 settings:
   byteLimit: null

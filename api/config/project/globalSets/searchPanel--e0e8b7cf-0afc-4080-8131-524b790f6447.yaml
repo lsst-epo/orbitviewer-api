@@ -1,0 +1,28 @@
+fieldLayouts:
+  48d80c86-4e9d-4e71-933c-89cabe9999a0:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 3c3371e1-1c92-4e4b-acad-5748d1ba9713 # Search Placeholder
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: aedb4cc7-8e36-49f3-affd-eeecf690a5a6 # Show Random Object Button
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Texts
+        sortOrder: 1
+handle: searchPanel
+name: 'Search Panel'
+sortOrder: 7

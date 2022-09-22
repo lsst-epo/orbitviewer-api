@@ -1,9 +1,9 @@
-columnSuffix: nqiumkee
+columnSuffix: njudgvyi
 contentColumnType: text
-fieldGroup: b965ebe0-86b2-4a2e-8cf2-66db5d5f46d0 # DatePicker Tab Texts
-handle: datepickerDescription
+fieldGroup: 5b5c2953-79f7-498a-bae7-94a08ec2f8ab # Common Strings
+handle: resetFilter
 instructions: ''
-name: 'DatePicker Description'
+name: 'Reset Filter'
 searchable: false
 settings:
   byteLimit: null

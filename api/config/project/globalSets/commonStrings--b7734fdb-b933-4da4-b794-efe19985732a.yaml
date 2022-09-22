@@ -13,7 +13,7 @@ fieldLayouts:
             warning: null
             width: 50
           -
-            fieldUid: 31e87e52-ecde-4fb4-b8d4-0bc17ddba4f7 # Apply
+            fieldUid: 22edc2f0-4993-43c9-b35e-319f2deaf730 # Cancel
             instructions: null
             label: null
             required: false
@@ -22,7 +22,7 @@ fieldLayouts:
             warning: null
             width: 50
           -
-            fieldUid: 22edc2f0-4993-43c9-b35e-319f2deaf730 # Cancel
+            fieldUid: 31e87e52-ecde-4fb4-b8d4-0bc17ddba4f7 # Apply
             instructions: null
             label: null
             required: false
@@ -88,30 +88,17 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 50
+          -
+            fieldUid: 7a9c00a3-295f-4dbd-be7b-6e239220190d # Apply Filter
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
         name: Strings
         sortOrder: 2
-      -
-        elements:
-          -
-            fieldUid: 3c3371e1-1c92-4e4b-acad-5748d1ba9713 # Search Placeholder
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 50
-          -
-            fieldUid: aedb4cc7-8e36-49f3-affd-eeecf690a5a6 # Show Random Object Button
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 50
-        name: Search
-        sortOrder: 3
 handle: commonStrings
 name: 'Common Strings'
-sortOrder: 4
+sortOrder: 2
