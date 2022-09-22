@@ -21,5 +21,6 @@ scope:
   - 'globalsets.02de342e-be45-47fd-84a4-bfbc0528e973:read' # Share Panel
   - 'globalsets.9145c52c-d87c-4799-8f76-7fb3c6f22aa6:read' # DatePicker Panel
   - 'globalsets.e0e8b7cf-0afc-4080-8131-524b790f6447:read' # Search Panel
+  - 'globalsets.6c89d9de-8b1c-4055-9a52-967f389c3612:read' # Customize Your View Panel
   - 'categorygroups.c0bf4db2-5962-4328-abcd-e6a0af1fbfc5:read' # Object types
   - 'categorygroups.fd26bd16-cdc1-44cf-af77-ceb7ecc98e42:read' # Tours

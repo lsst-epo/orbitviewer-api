@@ -1,0 +1,46 @@
+fieldLayouts:
+  70a0194a-933a-41c4-a5ef-00796f5b142f:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: f98f8dd5-8ba9-4158-9cac-b76367f1c960 # Customize Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 021e6986-b6fd-4723-b902-3e6bcdb6fd3b # Background Stars
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: ee50161d-c627-48b2-b3e3-c70b02c06828 # Observed Positions
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 1cb697db-b1e6-4633-8db5-1dda162fe9e7 # Discovered by Rubin
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Content
+        sortOrder: 1
+handle: customizeYourViewPanel
+name: 'Customize Your View Panel'
+sortOrder: 8
