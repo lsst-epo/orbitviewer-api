@@ -1,7 +1,7 @@
 columnSuffix: sjplbxmw
 contentColumnType: text
 fieldGroup: fce825cc-0666-4854-9414-90b980363646 # Main Menu
-handle: menutitle
+handle: menuTitle
 instructions: ''
 name: 'Menu Title'
 searchable: false

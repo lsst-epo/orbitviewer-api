@@ -15,5 +15,5 @@ settings:
   placeholder: '3D orbit viewer'
   uiMode: normal
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText

@@ -15,5 +15,5 @@ settings:
   placeholder: 'Please guide me'
   uiMode: normal
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText

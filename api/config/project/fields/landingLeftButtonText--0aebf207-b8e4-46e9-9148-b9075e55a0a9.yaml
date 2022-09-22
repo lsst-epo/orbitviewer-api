@@ -15,5 +15,5 @@ settings:
   placeholder: 'I want to explore'
   uiMode: normal
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText
