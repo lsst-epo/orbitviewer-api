@@ -1,4 +1,4 @@
-dateModified: 1663933535
+dateModified: 1663944268
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -15,6 +15,7 @@ email:
   transportType: craft\mail\transportadapters\Smtp
 meta:
   __names__:
+    00d2f19f-361b-48e1-bcad-9af116c709c2: 'Orbit Viewer' # Orbit Viewer
     0eccfbd3-ee20-4548-bc48-01195998260d: 'Customize Orbits' # Customize Orbits
     0f48338c-1c16-4600-9230-68bacb7c21e3: Text # Text
     1a35bfab-6a39-4c03-b273-2d5e3151c335: 'Rubin Telescope Education and Public Outreach' # Rubin Telescope Education and Public Outreach
@@ -78,6 +79,7 @@ meta:
     1345707a-2b07-4664-b8d2-25fcb9241212: Content # Content
     9940892d-32f4-4399-acac-ab559ce1c82b: Common # Common
     74319755-d24f-4991-a84a-0c1c031cb21e: 'Asset Link' # Asset Link
+    a022545d-8a4f-44cf-adcb-3954b7721751: 'SEO Site Name' # SEO Site Name
     a5b8e4fe-87da-48fc-8156-2a2a973b29e5: URL # URL
     a5bb0742-012f-4683-a471-874944bf3280: Image # Image
     a27ce8af-199a-455d-8d8e-dbeb7b3f117b: About # About
@@ -95,6 +97,7 @@ meta:
     c5e2a1ff-7d99-4956-8b74-c79601fad6fe: Title # Title
     c9e9db12-fcdb-4b82-a8c8-eef21b3543af: 'Cell Background' # Cell Background
     c44a71b5-f4c8-4209-8433-9878aece9aa5: Text # Text
+    c95c837c-b84e-47a5-9903-3c629af16aa8: 'Orbit Viewer' # Orbit Viewer
     c4060079-e438-4c63-8b06-77cdea857fd9: Text # Text
     cb6a7cee-4f9e-4191-8c6d-33ccdd921fec: Text # Text
     cbf3fbbb-2f2b-4568-a228-f8c63ff4601c: 'Row Color' # Row Color
