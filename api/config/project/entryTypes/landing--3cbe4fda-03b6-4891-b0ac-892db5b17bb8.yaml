@@ -58,7 +58,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: 0aebf207-b8e4-46e9-9148-b9075e55a0a9 # Landing Left Button Text
+            fieldUid: 0aebf207-b8e4-46e9-9148-b9075e55a0a9
             instructions: null
             label: null
             required: false
@@ -67,7 +67,7 @@ fieldLayouts:
             warning: null
             width: 50
           -
-            fieldUid: bdeb1d60-8e9f-44a7-90c3-b928e1545b75 # Landing Right Button Text
+            fieldUid: bdeb1d60-8e9f-44a7-90c3-b928e1545b75
             instructions: null
             label: null
             required: false

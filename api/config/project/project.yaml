@@ -1,4 +1,4 @@
-dateModified: 1663851415
+dateModified: 1663924916
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -15,22 +15,15 @@ email:
   transportType: craft\mail\transportadapters\Smtp
 meta:
   __names__:
-    0a0fd614-6a5f-41e9-9dee-84b661323f31: 'Menu Title' # Menu Title
-    0aebf207-b8e4-46e9-9148-b9075e55a0a9: 'Landing Left Button Text' # Landing Left Button Text
     0eccfbd3-ee20-4548-bc48-01195998260d: 'Customize Orbits' # Customize Orbits
     0f48338c-1c16-4600-9230-68bacb7c21e3: Text # Text
     1a35bfab-6a39-4c03-b273-2d5e3151c335: 'Rubin Telescope Education and Public Outreach' # Rubin Telescope Education and Public Outreach
-    1c3041a4-1be7-450a-9165-19dd3458cc69: 'Customize Orbits Button' # Customize Orbits Button
-    1cb697db-b1e6-4633-8db5-1dda162fe9e7: 'Discovered by Rubin' # Discovered by Rubin
     1e0c12ac-5dd7-4ed2-8cda-3801130b11e1: 'Gallery Item' # Gallery Item
     1ed94e58-7078-46fb-b590-0692fbdf9c20: 'Common Name' # Common Name
     1f8a9fe3-0e8c-4e3f-b6ce-0e1421fe0fbb: 'Landing Center Title' # Landing Center Title
     2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: ES # ES
-    02de342e-be45-47fd-84a4-bfbc0528e973: 'Share Panel' # Share Panel
     2f6b435a-5a6c-4f32-b8b5-4aae301d1738: 'Customize Orbits' # Customize Orbits
-    3b29031d-3d78-41d3-a340-21abda7bf557: 'Customize Your View Panel' # Customize Your View Panel
     3c4d26f3-4aa2-48fd-8dd8-400929f9210e: Tours # Tours
-    3c3371e1-1c92-4e4b-acad-5748d1ba9713: 'Search Placeholder' # Search Placeholder
     3cbe4fda-03b6-4891-b0ac-892db5b17bb8: Landing # Landing
     3df02181-c6a1-4e72-98fb-f91def384206: Entry # Entry
     4b94ba3d-060c-4a09-b2dc-c519a4c83709: 'Cell Content' # Cell Content
@@ -38,16 +31,9 @@ meta:
     4c977b75-9ee1-4cdb-9d2a-203639f4af84: Links # Links
     4e3020e0-9db8-4f8c-8e2e-8884ac2a1a5d: Content # Content
     4fe339ec-7579-46f4-a362-df6ee8de4b3c: 'Public Schema' # Public Schema
-    5b5c2953-79f7-498a-bae7-94a08ec2f8ab: 'Common Strings' # Common Strings
     5ca18cb3-5a7b-4764-9e18-fc24b4cecc14: Flag # Flag
     5f0325e0-cdba-4181-a634-bd8ebf451723: 'Entry - Page' # Entry - Page
-    6b607634-7580-4f3a-9958-c7883897e1c0: Near # Near
-    6bfb86e1-cb0b-4784-8066-ab45ba52b3e2: Far # Far
-    6c89d9de-8b1c-4055-9a52-967f389c3612: 'Customize Your View Panel' # Customize Your View Panel
-    6d856af2-d9d3-4725-a80d-dd0022c0c4b1: Filter # Filter
     06f925f8-298e-494b-bff7-6fe8024c0859: Frontend # Frontend
-    6fa60013-56a6-4e61-8935-871e6cca0536: Past # Past
-    7a9c00a3-295f-4dbd-be7b-6e239220190d: 'Apply Filter' # Apply Filter
     7db205b7-a548-42f1-8c26-416ec51cf3fa: Text # Text
     8ccd6c1c-8e9b-44e8-93a9-f62589fb4819: 'Default SEO' # Default SEO
     8fff3c50-28ba-4af7-8166-e3d82a23ae26: 'SEO Title' # SEO Title
@@ -58,9 +44,6 @@ meta:
     9f7b6402-ce3b-4a99-9180-c0c6c3915642: flexible # flexible
     16e8811b-6d9d-44e1-83b2-16c02e1dcd5a: 'Landing Version' # Landing Version
     20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35: Title # Title
-    021e6986-b6fd-4723-b902-3e6bcdb6fd3b: 'Background Stars' # Background Stars
-    22edc2f0-4993-43c9-b35e-319f2deaf730: Cancel # Cancel
-    31e87e52-ecde-4fb4-b8d4-0bc17ddba4f7: Apply # Apply
     37b1d17c-d8d5-45f3-9c15-14ef09b62add: 'Tour Picker' # Tour Picker
     39af5de5-d299-4bc5-965a-af2d128c7f1a: 'Alternative Text' # Alternative Text
     45e9d096-0ab6-4324-af5e-61a1be9cff83: 'Sub Title' # Sub Title
@@ -70,12 +53,10 @@ meta:
     68ce46bb-bb2f-4e55-8009-fe56a7d4493b: Header # Header
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
-    255abff9-94b4-4966-b0e9-f4a57d309ef0: 'Section 2 Title' # Section 2 Title
     380c1cbe-884e-421b-9e31-1f0dfc81e15f: 'Cell Width' # Cell Width
     433dd9ce-77cb-4942-8b4d-8e347439bc61: 'Sub Title' # Sub Title
     522bc2d7-fcc3-4817-a986-5c860e53351c: 'Internal Entry' # Internal Entry
     641bcbaa-093a-41bc-a403-6696f52ce6a9: 'Page Type' # Page Type
-    889fb8bb-51de-48ae-9f65-5df124aec8a7: Future # Future
     907d717b-d9ff-4449-abbf-7c7f5823851b: 'Guided Experiences Page' # Guided Experiences Page
     966a6b65-ca53-48a8-89dc-74983cd624ef: Title # Title
     991c5031-3b97-45d8-8829-c8e0c79537a9: 'Row Title' # Row Title
@@ -89,41 +70,25 @@ meta:
     7242b43a-de73-46de-b5c2-234ba48a8a57: 'Guided Experiences Page' # Guided Experiences Page
     7559fb47-f35b-436d-aceb-300a233317b8: 'Customize Orbits Description' # Customize Orbits Description
     7754bae8-c6eb-4fbe-882b-236621e35f2d: 'Canto DAM' # Canto DAM
-    7958b003-32f3-4a7e-b959-2e883e77af83: 'Facebook Text' # Facebook Text
     7970cd65-7a96-418a-8581-d6df4e039e6d: 'Plain Text' # Plain Text
-    9145c52c-d87c-4799-8f76-7fb3c6f22aa6: 'DatePicker Panel' # DatePicker Panel
     9829e8e1-9862-44ab-902c-90a72e4a81b7: Landing # Landing
-    46712e44-558d-4331-b184-c10c946a093d: 'Reset Filter' # Reset Filter
     52519e78-2e53-47c5-aa84-c2345d520393: About # About
-    57594c75-791b-46eb-9ba1-6b174ab4872a: 'DatePicker Description' # DatePicker Description
-    92639fad-3b2a-45ce-bc9b-8f86ec55fd30: 'Filters Panel' # Filters Panel
     294114c2-b0a2-4c1e-971b-f6ab75b78e88: 'SEO Share Image' # SEO Share Image
     547128fa-4529-4483-9968-66425996b69f: EN # EN
     1345707a-2b07-4664-b8d2-25fcb9241212: Content # Content
-    1655338e-aa59-49ef-ab90-aac2117ecdeb: 'Share Tab' # Share Tab
     9940892d-32f4-4399-acac-ab559ce1c82b: Common # Common
     74319755-d24f-4991-a84a-0c1c031cb21e: 'Asset Link' # Asset Link
     a5b8e4fe-87da-48fc-8156-2a2a973b29e5: URL # URL
     a5bb0742-012f-4683-a471-874944bf3280: Image # Image
-    a5d58b4b-7ea2-4626-a2aa-4ab4b6e215c7: Edit # Edit
     a27ce8af-199a-455d-8d8e-dbeb7b3f117b: About # About
     a61323db-26ac-4898-873c-a6c6b66fcb86: Header # Header
-    a201875a-24e2-4cb9-89ab-0442461f589f: 'Tab Title' # Tab Title
     a1432247-e10b-4c71-b669-23798d01a022: 'Intro Slide' # Intro Slide
     acbea415-ee80-409c-90e2-90ac546820a6: 'SEO Description' # SEO Description
-    aedb4cc7-8e36-49f3-affd-eeecf690a5a6: 'Show Random Object Button' # Show Random Object Button
     af1b8590-3d8a-4eb1-90e1-60e3d7407a1a: 'Link text' # Link text
-    b9a006e5-24a8-4ff3-acc9-e8457785163c: Reset # Reset
     b49a6e91-b631-4ade-92cc-8c3e3f6db788: 'Customize Orbits Title' # Customize Orbits Title
     b60e78f2-8891-4212-b8c5-4f6fc62b4910: 'Context Information' # Context Information
-    b71b38e4-9789-440e-b665-4359ddac23b2: 'Email Text' # Email Text
     b405d3c9-e565-4e57-87eb-6f541ae49070: 'Fun Fact Slide' # Fun Fact Slide
     b882fa04-8a43-4715-a55d-b3344db891bf: 'Table Title' # Table Title
-    b965ebe0-86b2-4a2e-8cf2-66db5d5f46d0: 'DatePicker Tab Texts' # DatePicker Tab Texts
-    b2328e86-9d0d-4646-8085-e8077ee866a6: 'Main Menu' # Main Menu
-    b7734fdb-b933-4da4-b794-efe19985732a: 'Common Strings' # Common Strings
-    b128894d-4132-449c-8dbe-ad1fe8051aef: 'Get Snapshot Text' # Get Snapshot Text
-    bdeb1d60-8e9f-44a7-90c3-b928e1545b75: 'Landing Right Button Text' # Landing Right Button Text
     c0bf4db2-5962-4328-abcd-e6a0af1fbfc5: 'Object types' # Object types
     c4ff4a71-a62a-4cb6-b445-6ae6c12381a6: 'Page Content' # Page Content
     c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7: Thumbnail # Thumbnail
@@ -135,14 +100,12 @@ meta:
     cbf3fbbb-2f2b-4568-a228-f8c63ff4601c: 'Row Color' # Row Color
     cc694df6-ebfe-4e0c-b4fe-713761f100df: Text # Text
     cee5c2f8-2801-42c2-a56c-4fe40c85b6f3: 'Default SEO' # Default SEO
-    cf5318f6-ae6b-43b2-86ba-c1ac7addc1bc: 'Twitter Text' # Twitter Text
     d019727b-a6d5-43d9-a688-f10df985a87e: Link # Link
     d3d6215a-2225-4541-b17d-74eb58445af5: 'Default Slide' # Default Slide
     d88e4d7c-567a-4c5b-b0c3-6036b75d87df: 'Object Types' # Object Types
     d889713c-632a-4323-bb10-4b2bc53545ad: Asset # Asset
     ddf8dce2-4fa1-43d1-b306-b34d9d97a91b: Content # Content
     dff2a767-333e-4c9d-880c-143e1ca2aaa3: 'Row Content' # Row Content
-    e0e8b7cf-0afc-4080-8131-524b790f6447: 'Search Panel' # Search Panel
     e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d: General # General
     e84d2431-7574-44a8-9e23-019823b2dfc3: Default # Default
     e217cce2-4f3d-44f9-90c5-42149175876a: Text # Text
@@ -152,16 +115,9 @@ meta:
     e9726196-f241-49d4-9b6b-9e8d419e6669: 'Link Text' # Link Text
     ea7cafd8-b2d5-4ffb-b9fb-9a617eef9dfb: Complexity # Complexity
     ec809547-cd72-4016-92f4-e72a89d6620c: Default # Default
-    ee50161d-c627-48b2-b3e3-c70b02c06828: 'Observed Positions' # Observed Positions
     ef474ef1-31d2-45c5-8419-cb15202ba296: 'Guided Experiences Tours' # Guided Experiences Tours
-    f004ebee-da80-4d14-a9f7-7fe7ae4058e8: 'Get URL Text' # Get URL Text
     f1df2c63-97e5-49f0-8f4d-1e704d4945ac: Landing # Landing
-    f5b01309-7a7a-4ae7-898c-eaea681e11a5: 'Section 1 Title' # Section 1 Title
-    f98f8dd5-8ba9-4158-9cac-b76367f1c960: 'Customize Title' # Customize Title
     f444667c-6ea1-4e0f-89b2-35b059e27bfc: Link # Link
-    fadf9022-eca1-4363-80a6-f415eb299321: 'DatePicker Go to Date' # DatePicker Go to Date
-    fc53e1f0-3f64-42f2-a532-79469490caaa: 'Menu Subtitle' # Menu Subtitle
-    fce825cc-0666-4854-9414-90b980363646: 'Main Menu' # Main Menu
     fd26bd16-cdc1-44cf-af77-ceb7ecc98e42: Tours # Tours
 plugins:
   asset-metadata:

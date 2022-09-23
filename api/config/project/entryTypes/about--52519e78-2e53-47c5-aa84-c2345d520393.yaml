@@ -27,7 +27,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: 0a0fd614-6a5f-41e9-9dee-84b661323f31 # Menu Title
+            fieldUid: 0a0fd614-6a5f-41e9-9dee-84b661323f31
             instructions: null
             label: null
             required: false
@@ -36,7 +36,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: fc53e1f0-3f64-42f2-a532-79469490caaa # Menu Subtitle
+            fieldUid: fc53e1f0-3f64-42f2-a532-79469490caaa
             instructions: null
             label: null
             required: false
