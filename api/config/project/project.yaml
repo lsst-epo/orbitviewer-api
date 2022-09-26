@@ -1,4 +1,4 @@
-dateModified: 1663944268
+dateModified: 1664186056
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -53,6 +53,7 @@ meta:
     59e08766-55d3-4cb0-8b02-b406b1ea45d8: 'Solar system Elements' # Solar system Elements
     68ce46bb-bb2f-4e55-8009-fe56a7d4493b: Header # Header
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
+    96e2805b-5beb-443c-9ae0-8c03438cc369: 'Help URL' # Help URL
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
     380c1cbe-884e-421b-9e31-1f0dfc81e15f: 'Cell Width' # Cell Width
     433dd9ce-77cb-4942-8b4d-8e347439bc61: 'Sub Title' # Sub Title
@@ -76,12 +77,14 @@ meta:
     52519e78-2e53-47c5-aa84-c2345d520393: About # About
     294114c2-b0a2-4c1e-971b-f6ab75b78e88: 'SEO Share Image' # SEO Share Image
     547128fa-4529-4483-9968-66425996b69f: EN # EN
+    823093aa-2491-437f-9e85-67fdf7449214: 'Main Menu' # Main Menu
     1345707a-2b07-4664-b8d2-25fcb9241212: Content # Content
     9940892d-32f4-4399-acac-ab559ce1c82b: Common # Common
     74319755-d24f-4991-a84a-0c1c031cb21e: 'Asset Link' # Asset Link
     a022545d-8a4f-44cf-adcb-3954b7721751: 'SEO Site Name' # SEO Site Name
     a5b8e4fe-87da-48fc-8156-2a2a973b29e5: URL # URL
     a5bb0742-012f-4683-a471-874944bf3280: Image # Image
+    a25b1a87-97c8-4590-ab39-5d2a0e5c214e: 'Main Menu' # Main Menu
     a27ce8af-199a-455d-8d8e-dbeb7b3f117b: About # About
     a61323db-26ac-4898-873c-a6c6b66fcb86: Header # Header
     a1432247-e10b-4c71-b669-23798d01a022: 'Intro Slide' # Intro Slide
@@ -91,6 +94,7 @@ meta:
     b60e78f2-8891-4212-b8c5-4f6fc62b4910: 'Context Information' # Context Information
     b405d3c9-e565-4e57-87eb-6f541ae49070: 'Fun Fact Slide' # Fun Fact Slide
     b882fa04-8a43-4715-a55d-b3344db891bf: 'Table Title' # Table Title
+    bd7d2ebc-3cf3-4390-b6b5-4e6cc4f1deba: 'How to use URL' # How to use URL
     c0bf4db2-5962-4328-abcd-e6a0af1fbfc5: 'Object types' # Object types
     c4ff4a71-a62a-4cb6-b445-6ae6c12381a6: 'Page Content' # Page Content
     c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7: Thumbnail # Thumbnail

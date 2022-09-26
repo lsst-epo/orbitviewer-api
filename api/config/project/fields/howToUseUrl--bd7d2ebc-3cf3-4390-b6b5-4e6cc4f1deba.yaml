@@ -1,0 +1,15 @@
+columnSuffix: eoxhumdw
+contentColumnType: string(255)
+fieldGroup: 823093aa-2491-437f-9e85-67fdf7449214 # Main Menu
+handle: howToUseUrl
+instructions: ''
+name: 'How to use URL'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: null
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: language
+type: craft\fields\Url

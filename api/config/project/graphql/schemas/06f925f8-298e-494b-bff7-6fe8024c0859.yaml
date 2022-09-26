@@ -16,6 +16,8 @@ scope:
   - 'sections.59e08766-55d3-4cb0-8b02-b406b1ea45d8:read' # Solar system Elements
   - 'entrytypes.ec809547-cd72-4016-92f4-e72a89d6620c:read' # Default
   - 'volumes.7754bae8-c6eb-4fbe-882b-236621e35f2d:read' # Canto DAM
+  - 'volumes.e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d:read' # General
   - 'globalsets.8ccd6c1c-8e9b-44e8-93a9-f62589fb4819:read' # Default SEO
+  - 'globalsets.a25b1a87-97c8-4590-ab39-5d2a0e5c214e:read' # Main Menu
   - 'categorygroups.c0bf4db2-5962-4328-abcd-e6a0af1fbfc5:read' # Object types
   - 'categorygroups.fd26bd16-cdc1-44cf-af77-ceb7ecc98e42:read' # Tours
