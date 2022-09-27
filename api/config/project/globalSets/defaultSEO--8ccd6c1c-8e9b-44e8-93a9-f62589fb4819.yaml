@@ -1,35 +1,17 @@
 fieldLayouts:
-  84f67ddb-6409-4d18-8544-129795a36da5:
+  3a661c42-268a-4134-af14-45715ef1c9c2:
     tabs:
       -
         elements:
           -
-            autocapitalize: true
-            autocomplete: false
-            autocorrect: true
-            class: null
-            disabled: false
-            id: null
+            fieldUid: a022545d-8a4f-44cf-adcb-3954b7721751 # SEO Site Name
             instructions: null
             label: null
-            max: null
-            min: null
-            name: null
-            orientation: null
-            placeholder: null
-            readonly: false
-            requirable: false
-            size: null
-            step: null
+            required: false
             tip: null
-            title: null
-            type: craft\fieldlayoutelements\EntryTitleField
+            type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-        name: Content
-        sortOrder: 1
-      -
-        elements:
           -
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
             instructions: null
@@ -38,7 +20,7 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 25
+            width: 100
           -
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
             instructions: null
@@ -47,7 +29,7 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 75
+            width: 100
           -
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
             instructions: null
@@ -57,13 +39,8 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-        name: Seo
-        sortOrder: 2
-handle: guidedExperiences
-hasTitleField: true
-name: 'Guided Experiences Page'
-section: 907d717b-d9ff-4449-abbf-7c7f5823851b # Guided Experiences Page
+        name: Metadata
+        sortOrder: 1
+handle: defaultSEO
+name: 'Default SEO'
 sortOrder: 1
-titleFormat: null
-titleTranslationKeyFormat: null
-titleTranslationMethod: site

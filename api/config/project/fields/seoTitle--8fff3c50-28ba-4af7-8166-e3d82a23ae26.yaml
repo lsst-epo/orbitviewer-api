@@ -1,9 +1,9 @@
 columnSuffix: null
 contentColumnType: text
-fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Site Information
-handle: siteTitle
+fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Default SEO
+handle: seoTitle
 instructions: ''
-name: Title
+name: 'SEO Title'
 searchable: false
 settings:
   byteLimit: null
@@ -15,5 +15,5 @@ settings:
   placeholder: null
   uiMode: normal
 translationKeyFormat: null
-translationMethod: site
+translationMethod: language
 type: craft\fields\PlainText

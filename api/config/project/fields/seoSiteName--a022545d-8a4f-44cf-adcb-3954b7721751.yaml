@@ -1,9 +1,9 @@
-columnSuffix: aomrfiav
+columnSuffix: mewfamxv
 contentColumnType: text
-fieldGroup: 9829e8e1-9862-44ab-902c-90a72e4a81b7 # Landing
-handle: landingRightButtonText
+fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Default SEO
+handle: seoSiteName
 instructions: ''
-name: 'Landing Right Button Text'
+name: 'SEO Site Name'
 searchable: false
 settings:
   byteLimit: null
@@ -12,8 +12,8 @@ settings:
   columnType: null
   initialRows: '4'
   multiline: ''
-  placeholder: 'Please guide me'
+  placeholder: null
   uiMode: normal
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText

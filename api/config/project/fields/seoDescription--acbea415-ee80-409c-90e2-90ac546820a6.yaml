@@ -1,9 +1,9 @@
-columnSuffix: jhnvhrnf
+columnSuffix: null
 contentColumnType: text
-fieldGroup: 9829e8e1-9862-44ab-902c-90a72e4a81b7 # Landing
-handle: landingLeftButtonText
+fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Default SEO
+handle: seoDescription
 instructions: ''
-name: 'Landing Left Button Text'
+name: 'SEO Description'
 searchable: false
 settings:
   byteLimit: null
@@ -12,8 +12,8 @@ settings:
   columnType: null
   initialRows: '4'
   multiline: ''
-  placeholder: 'I want to explore'
+  placeholder: null
   uiMode: normal
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText

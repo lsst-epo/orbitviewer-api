@@ -61,7 +61,7 @@ fields:
       placeholder: null
       uiMode: enlarged
     translationKeyFormat: null
-    translationMethod: none
+    translationMethod: language
     type: craft\fields\PlainText
   20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35: # Title
     columnSuffix: znpxpszh
@@ -81,7 +81,7 @@ fields:
       placeholder: null
       uiMode: normal
     translationKeyFormat: null
-    translationMethod: none
+    translationMethod: language
     type: craft\fields\PlainText
   45e9d096-0ab6-4324-af5e-61a1be9cff83: # Sub Title
     columnSuffix: mhcnskqq
@@ -101,7 +101,7 @@ fields:
       placeholder: null
       uiMode: normal
     translationKeyFormat: null
-    translationMethod: none
+    translationMethod: language
     type: craft\fields\PlainText
   c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7: # Thumbnail
     columnSuffix: vayzwtes

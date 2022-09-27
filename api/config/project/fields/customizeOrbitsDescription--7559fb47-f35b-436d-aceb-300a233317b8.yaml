@@ -15,5 +15,5 @@ settings:
   placeholder: null
   uiMode: enlarged
 translationKeyFormat: null
-translationMethod: none
+translationMethod: language
 type: craft\fields\PlainText
