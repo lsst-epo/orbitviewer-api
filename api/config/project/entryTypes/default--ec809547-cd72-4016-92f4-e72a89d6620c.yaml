@@ -44,6 +44,15 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
+          -
+            fieldUid: 08df75ba-ecc2-470d-84c2-f004b1d30739 # Preview
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
         name: Reference
         sortOrder: 1
       -
