@@ -49,7 +49,7 @@ fieldLayouts:
       -
         elements:
           -
-            fieldUid: b60e78f2-8891-4212-b8c5-4f6fc62b4910 # Context Information
+            fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
             instructions: null
             label: null
             required: false
