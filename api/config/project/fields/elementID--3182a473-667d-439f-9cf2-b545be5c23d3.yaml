@@ -1,14 +1,14 @@
 columnSuffix: kauudrcg
 contentColumnType: text
 fieldGroup: 56f784c1-2182-4a9a-9e20-2e30e7b4a2bd # Solar system Elements
-handle: fulldesignation
+handle: elementID
 instructions: 'This field needs to match one of the DB'
-name: Fulldesignation
+name: 'Element ID'
 searchable: true
 settings:
   byteLimit: null
   charLimit: null
-  code: ''
+  code: '1'
   columnType: null
   initialRows: '4'
   multiline: ''

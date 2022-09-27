@@ -1,4 +1,4 @@
-dateModified: 1664186056
+dateModified: 1664273384
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -64,7 +64,7 @@ meta:
     991c5031-3b97-45d8-8829-c8e0c79537a9: 'Row Title' # Row Title
     2755abe1-7dd5-428c-a6bb-30d2bd59a362: Link # Link
     2817d4b1-3f70-458a-81c2-f82491ce138c: 'Main Color' # Main Color
-    3182a473-667d-439f-9cf2-b545be5c23d3: Fulldesignation # Fulldesignation
+    3182a473-667d-439f-9cf2-b545be5c23d3: 'Element ID' # Element ID
     3400f929-2ff0-47da-8c15-40bce8b6cebf: 'Customize Orbits' # Customize Orbits
     4294fb85-8029-437c-a2e5-76bcd1a79ef1: Asset # Asset
     5075e912-4aa1-4ce4-96b2-8868358b51e3: Header # Header

@@ -25,7 +25,16 @@ fieldLayouts:
             title: null
             type: craft\fieldlayoutelements\EntryTitleField
             warning: null
-            width: 50
+            width: 100
+          -
+            fieldUid: 3182a473-667d-439f-9cf2-b545be5c23d3 # Element ID
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
           -
             fieldUid: 53d8b6b6-280e-4d4a-adc1-2c3efcb4bd0a # Element Category
             instructions: null
@@ -35,7 +44,7 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-        name: Content
+        name: Reference
         sortOrder: 1
       -
         elements:
