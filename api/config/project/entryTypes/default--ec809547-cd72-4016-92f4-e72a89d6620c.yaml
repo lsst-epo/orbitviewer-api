@@ -81,6 +81,19 @@ fieldLayouts:
             width: 100
         name: 'Context Information'
         sortOrder: 3
+      -
+        elements:
+          -
+            fieldUid: 259c53da-eb2c-4ed5-9688-265402477b30 # View In Skyviewer Link
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Detailed Data'
+        sortOrder: 4
 handle: default
 hasTitleField: true
 name: Default
