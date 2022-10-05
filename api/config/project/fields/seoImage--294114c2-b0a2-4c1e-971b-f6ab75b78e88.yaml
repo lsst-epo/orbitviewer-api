@@ -10,7 +10,7 @@ settings:
   allowUploads: true
   allowedKinds:
     - image
-  defaultUploadLocationSource: 'volume:7754bae8-c6eb-4fbe-882b-236621e35f2d' # Canto DAM
+  defaultUploadLocationSource: 'volume:e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d' # General
   defaultUploadLocationSubpath: ''
   limit: '1'
   localizeRelations: false
@@ -20,7 +20,7 @@ settings:
   showSiteMenu: false
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
-  singleUploadLocationSource: 'volume:7754bae8-c6eb-4fbe-882b-236621e35f2d' # Canto DAM
+  singleUploadLocationSource: 'volume:e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d' # General
   singleUploadLocationSubpath: ''
   source: null
   sources: '*'

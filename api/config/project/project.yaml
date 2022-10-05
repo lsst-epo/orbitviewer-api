@@ -1,4 +1,4 @@
-dateModified: 1664954653
+dateModified: 1664997412
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -74,7 +74,6 @@ meta:
     5548b745-642b-4b15-8f17-4ce7457689a8: Header # Header
     7242b43a-de73-46de-b5c2-234ba48a8a57: 'Guided Experiences Page' # Guided Experiences Page
     7559fb47-f35b-436d-aceb-300a233317b8: 'Customize Orbits Description' # Customize Orbits Description
-    7754bae8-c6eb-4fbe-882b-236621e35f2d: 'Canto DAM' # Canto DAM
     7970cd65-7a96-418a-8581-d6df4e039e6d: 'Plain Text' # Plain Text
     9829e8e1-9862-44ab-902c-90a72e4a81b7: Landing # Landing
     52519e78-2e53-47c5-aa84-c2345d520393: About # About
@@ -130,14 +129,10 @@ meta:
     f444667c-6ea1-4e0f-89b2-35b059e27bfc: Link # Link
     fd26bd16-cdc1-44cf-af77-ceb7ecc98e42: Tours # Tours
 plugins:
-  asset-metadata:
+  google-cloud:
     edition: standard
     enabled: true
-    schemaVersion: 3.0.0
-  element-api:
-    edition: standard
-    enabled: true
-    schemaVersion: 1.0.0
+    schemaVersion: '1.1'
   neo:
     edition: standard
     enabled: true
@@ -155,16 +150,6 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 2.0.0
-  universal-dam-integrator:
-    edition: standard
-    enabled: true
-    schemaVersion: 1.0.0
-    settings:
-      appId: $CANTO_APP_ID
-      authEndpoint: $CANTO_AUTH_ENDPOINT
-      damVolume: cantoDam
-      retrieveAssetMetadataEndpoint: $CANTO_ASSET_ENDPOINT
-      secretKey: $CANTO_SECRET_KEY
 system:
   edition: pro
   live: true

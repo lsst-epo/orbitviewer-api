@@ -51,4 +51,4 @@ sortOrder: 10
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
 type: craft\googlecloud\Volume
-url: '@assets'
+url: null

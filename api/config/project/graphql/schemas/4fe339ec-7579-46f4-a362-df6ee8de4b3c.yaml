@@ -7,7 +7,7 @@ scope:
   - 'entrytypes.3cbe4fda-03b6-4891-b0ac-892db5b17bb8:read' # Landing
   - 'sections.59e08766-55d3-4cb0-8b02-b406b1ea45d8:read' # Solar system Elements
   - 'entrytypes.ec809547-cd72-4016-92f4-e72a89d6620c:read' # Default
-  - 'volumes.7754bae8-c6eb-4fbe-882b-236621e35f2d:read' # Canto DAM
+  - 'volumes.7754bae8-c6eb-4fbe-882b-236621e35f2d:read'
   - 'globalsets.8ccd6c1c-8e9b-44e8-93a9-f62589fb4819:read' # Default SEO
   - 'categorygroups.0928ff1a-513d-41e0-acc1-606d93988618:read'
   - 'categorygroups.70ff59dd-8280-4bea-bef6-cfdf9ea4f0c2:read'
