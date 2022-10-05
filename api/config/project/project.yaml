@@ -1,4 +1,4 @@
-dateModified: 1664885575
+dateModified: 1664954653
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -57,6 +57,7 @@ meta:
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
     96e2805b-5beb-443c-9ae0-8c03438cc369: 'Help URL' # Help URL
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
+    259c53da-eb2c-4ed5-9688-265402477b30: 'View In Skyviewer Link' # View In Skyviewer Link
     380c1cbe-884e-421b-9e31-1f0dfc81e15f: 'Cell Width' # Cell Width
     433dd9ce-77cb-4942-8b4d-8e347439bc61: 'Sub Title' # Sub Title
     522bc2d7-fcc3-4817-a986-5c860e53351c: 'Internal Entry' # Internal Entry
