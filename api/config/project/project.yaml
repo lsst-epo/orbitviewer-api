@@ -1,4 +1,4 @@
-dateModified: 1665148873
+dateModified: 1665661802
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -30,6 +30,7 @@ meta:
     4b94ba3d-060c-4a09-b2dc-c519a4c83709: 'Cell Content' # Cell Content
     4c6c84cf-d5a1-4d83-a3fa-e1d0276c9ae4: 'Content Blocks' # Content Blocks
     4c977b75-9ee1-4cdb-9d2a-203639f4af84: Links # Links
+    4e7f9aec-f2f0-4d0d-bd27-ab2662ab3e08: Duration # Duration
     4e3020e0-9db8-4f8c-8e2e-8884ac2a1a5d: Content # Content
     4fe339ec-7579-46f4-a362-df6ee8de4b3c: 'Public Schema' # Public Schema
     5ca18cb3-5a7b-4764-9e18-fc24b4cecc14: Flag # Flag
@@ -56,6 +57,7 @@ meta:
     59e08766-55d3-4cb0-8b02-b406b1ea45d8: 'Solar system Elements' # Solar system Elements
     68ce46bb-bb2f-4e55-8009-fe56a7d4493b: Header # Header
     95b97a67-eccb-4910-b0e8-77f5860058b4: Link # Link
+    96bb1d3d-4098-4112-9dc3-dbffbe908c62: 'Tour Preview' # Tour Preview
     96e2805b-5beb-443c-9ae0-8c03438cc369: 'Help URL' # Help URL
     99f4a28a-48c3-49ca-bb4a-7acbb49fde30: Pages # Pages
     259c53da-eb2c-4ed5-9688-265402477b30: 'View In Skyviewer Link' # View In Skyviewer Link
