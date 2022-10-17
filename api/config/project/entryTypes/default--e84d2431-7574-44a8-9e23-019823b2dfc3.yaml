@@ -36,6 +36,15 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            fieldUid: 96bb1d3d-4098-4112-9dc3-dbffbe908c62 # Tour Preview
+            instructions: ''
+            label: Preview
+            required: ''
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
             fieldUid: 4e7f9aec-f2f0-4d0d-bd27-ab2662ab3e08 # Duration
             instructions: null
             label: null
