@@ -1,5 +1,6 @@
+defaultPlacement: end
 fieldLayouts:
-  290ef876-62b5-4cf7-94d4-9ecbcc0c5d3e:
+  27c72910-179e-4a2e-a075-8034d8e4559e:
     tabs:
       -
         elements:
@@ -23,11 +24,11 @@ fieldLayouts:
             step: null
             tip: null
             title: null
-            type: craft\fieldlayoutelements\EntryTitleField
+            type: craft\fieldlayoutelements\TitleField
             warning: null
             width: 100
           -
-            fieldUid: 4c6c84cf-d5a1-4d83-a3fa-e1d0276c9ae4 # Content Blocks
+            fieldUid: 96bb1d3d-4098-4112-9dc3-dbffbe908c62 # Tour Preview
             instructions: null
             label: null
             required: false
@@ -35,22 +36,19 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-          -
-            fieldUid: 641bcbaa-093a-41bc-a403-6696f52ce6a9 # Page Type
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-        name: Pages
+        name: Content
         sortOrder: 1
-handle: homepage
-hasTitleField: true
-name: Homepage
-section: 3e10dcca-4dd1-4578-8add-708cd9740881 # Homepage
-sortOrder: 1
-titleFormat: '{section.name|raw}'
-titleTranslationKeyFormat: null
-titleTranslationMethod: site
+handle: tours
+name: Tours
+siteSettings:
+  2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: # ES
+    hasUrls: true
+    template: null
+    uriFormat: 'tours/{slug}'
+  547128fa-4529-4483-9968-66425996b69f: # EN
+    hasUrls: true
+    template: null
+    uriFormat: 'tours/{slug}'
+structure:
+  maxLevels: null
+  uid: e15eab9e-edd4-433c-a835-b45264b5a10f

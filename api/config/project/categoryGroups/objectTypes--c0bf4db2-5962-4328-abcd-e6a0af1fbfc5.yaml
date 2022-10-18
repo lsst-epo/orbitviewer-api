@@ -1,6 +1,6 @@
-defaultPlacement: end
+defaultPlacement: beginning
 fieldLayouts:
-  90bed1d1-9225-4f28-ba44-a9c3c65d1b28:
+  9d3be8ae-c19c-4b27-afec-3201f012257f:
     tabs:
       -
         elements:
@@ -11,8 +11,8 @@ fieldLayouts:
             class: null
             disabled: false
             id: null
-            instructions: 'User-friendly name'
-            label: Label
+            instructions: null
+            label: null
             max: null
             min: null
             name: null
@@ -27,19 +27,28 @@ fieldLayouts:
             type: craft\fieldlayoutelements\TitleField
             warning: null
             width: 100
+          -
+            fieldUid: 2817d4b1-3f70-458a-81c2-f82491ce138c # Main Color
+            instructions: 'Used for icons among other things. '
+            label: ''
+            required: ''
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
         name: Content
         sortOrder: 1
-handle: sortOptions
-name: 'Sort Options'
+handle: objectTypes
+name: 'Object types'
 siteSettings:
   2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: # ES
     hasUrls: true
     template: null
-    uriFormat: 'sort-options/{slug}'
+    uriFormat: 'object-types/{slug}'
   547128fa-4529-4483-9968-66425996b69f: # EN
     hasUrls: true
     template: null
-    uriFormat: 'sort-options/{slug}'
+    uriFormat: 'object-types/{slug}'
 structure:
   maxLevels: null
-  uid: d4c428f8-5094-4d5c-a6b5-5f3a58a35787
+  uid: 71a7583f-7d34-4156-b561-ddcb41066953

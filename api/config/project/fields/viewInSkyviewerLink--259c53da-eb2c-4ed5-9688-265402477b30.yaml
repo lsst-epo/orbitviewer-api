@@ -1,0 +1,15 @@
+columnSuffix: joqugqea
+contentColumnType: string(255)
+fieldGroup: 56f784c1-2182-4a9a-9e20-2e30e7b4a2bd # Solar system Elements
+handle: viewInSkyviewerLink
+instructions: ''
+name: 'View In Skyviewer Link'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: null
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url

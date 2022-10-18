@@ -1,9 +1,9 @@
-columnSuffix: null
+columnSuffix: mewfamxv
 contentColumnType: text
-fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Site Information
-handle: siteDescription
+fieldGroup: cee5c2f8-2801-42c2-a56c-4fe40c85b6f3 # Default SEO
+handle: seoSiteName
 instructions: ''
-name: Description
+name: 'SEO Site Name'
 searchable: false
 settings:
   byteLimit: null
@@ -15,5 +15,5 @@ settings:
   placeholder: null
   uiMode: normal
 translationKeyFormat: null
-translationMethod: site
+translationMethod: language
 type: craft\fields\PlainText

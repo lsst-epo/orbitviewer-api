@@ -1,10 +1,33 @@
 fieldLayouts:
-  3a661c42-268a-4134-af14-45715ef1c9c2:
+  ec58d409-2cc8-4a47-94f9-774ebe51dc73:
     tabs:
       -
         elements:
           -
-            fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # Title
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: 37b1d17c-d8d5-45f3-9c15-14ef09b62add # Tour Picker
             instructions: null
             label: null
             required: false
@@ -13,7 +36,16 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # Description
+            fieldUid: 96bb1d3d-4098-4112-9dc3-dbffbe908c62 # Tour Preview
+            instructions: ''
+            label: Preview
+            required: ''
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 4e7f9aec-f2f0-4d0d-bd27-ab2662ab3e08 # Duration
             instructions: null
             label: null
             required: false
@@ -22,7 +54,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: e46ce1e1-606c-4043-acea-5ddab0358221
+            fieldUid: ea7cafd8-b2d5-4ffb-b9fb-9a617eef9dfb # Complexity
             instructions: null
             label: null
             required: false
@@ -30,30 +62,39 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-        name: Metadata
+          -
+            fieldUid: 9f7b6402-ce3b-4a99-9180-c0c6c3915642 # flexible
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
         sortOrder: 1
       -
         elements:
           -
-            fieldUid: 033c2694-fbf5-48d0-aa4f-7d14e86f0aa8
+            fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 25
           -
-            fieldUid: 5b0d5d69-4003-4a56-8940-b9cbc2d691e8
+            fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             warning: null
-            width: 100
+            width: 75
           -
-            fieldUid: bc12b31b-5681-4d9c-bbc1-80042dca1a82
+            fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
             instructions: null
             label: null
             required: false
@@ -61,48 +102,13 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
-          -
-            fieldUid: fba2e6e2-54d4-47e5-94de-b140c01cbed6
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-          -
-            fieldUid: 31bdcba6-2552-4cc2-8e02-e4a057a0edf0
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-          -
-            fieldUid: 40ee52fe-bbe1-4b44-97ea-ef987105496b
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-        name: 'Social Media'
+        name: Seo
         sortOrder: 2
-      -
-        elements:
-          -
-            fieldUid: d7bdf364-6905-4919-b4b1-08f0010d7a08
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            warning: null
-            width: 100
-        name: 'Contact Info'
-        sortOrder: 3
-handle: siteInfo
-name: 'Site Information'
-sortOrder: 0
+handle: default
+hasTitleField: true
+name: Default
+section: ef474ef1-31d2-45c5-8419-cb15202ba296 # Guided Experiences Tours
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
