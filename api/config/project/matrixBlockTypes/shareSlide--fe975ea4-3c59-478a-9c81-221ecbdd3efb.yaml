@@ -1,0 +1,315 @@
+field: 9f7b6402-ce3b-4a99-9180-c0c6c3915642 # flexible
+fieldLayouts:
+  60511076-e137-4265-860d-d19bd833234a:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: d77e6076-0548-4254-b697-8ffa9980271b # Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 3cc93b5a-26a7-43b2-98d9-1d346f30440b # Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: ac760e25-4731-4206-b6a8-bc36fbf95448 # Links Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 19012886-9bc8-45c8-98ca-619268a128d4 # Link 1
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: ccafd7ca-3768-4e9f-92c6-56ed30825dd3 # Link 1 Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 510835eb-8d26-4284-abbd-01750b50e6e0 # Link 2
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 5ec16768-675f-4821-9d5c-bdda6be16ddf # Link 2 Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: a320b687-d7a3-4cba-9a9f-f696c52c859c # Link 3
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: b8a1185f-57c4-4db0-a5c8-fab494cbef2d # Link 3 Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 18324a33-d4f9-424d-b03a-c1e74f127122 # Link 4
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: 3d8ca907-3314-4e70-8195-610c75f3ef68 # Link 4 Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Content
+        sortOrder: 1
+fields:
+  3cc93b5a-26a7-43b2-98d9-1d346f30440b: # Text
+    columnSuffix: pdebyzsq
+    contentColumnType: text
+    fieldGroup: null
+    handle: slideText
+    instructions: ''
+    name: Text
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  3d8ca907-3314-4e70-8195-610c75f3ef68: # Link 4 Text
+    columnSuffix: pvnfzjkd
+    contentColumnType: text
+    fieldGroup: null
+    handle: link4Text
+    instructions: ''
+    name: 'Link 4 Text'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  5ec16768-675f-4821-9d5c-bdda6be16ddf: # Link 2 Text
+    columnSuffix: gevevjzi
+    contentColumnType: text
+    fieldGroup: null
+    handle: link2Text
+    instructions: ''
+    name: 'Link 2 Text'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  18324a33-d4f9-424d-b03a-c1e74f127122: # Link 4
+    columnSuffix: enunohnk
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: link4
+    instructions: ''
+    name: 'Link 4'
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: null
+      types:
+        - url
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  510835eb-8d26-4284-abbd-01750b50e6e0: # Link 2
+    columnSuffix: uwxastzn
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: link2
+    instructions: ''
+    name: 'Link 2'
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: null
+      types:
+        - url
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  19012886-9bc8-45c8-98ca-619268a128d4: # Link 1
+    columnSuffix: ttfahrve
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: Link1
+    instructions: ''
+    name: 'Link 1'
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: null
+      types:
+        - url
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  a320b687-d7a3-4cba-9a9f-f696c52c859c: # Link 3
+    columnSuffix: hbmtjrgp
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: link3
+    instructions: ''
+    name: 'Link 3'
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: null
+      types:
+        - url
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  ac760e25-4731-4206-b6a8-bc36fbf95448: # Links Title
+    columnSuffix: ljnvmhtp
+    contentColumnType: text
+    fieldGroup: null
+    handle: linksTitle
+    instructions: ''
+    name: 'Links Title'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  b8a1185f-57c4-4db0-a5c8-fab494cbef2d: # Link 3 Text
+    columnSuffix: trxtkxkz
+    contentColumnType: text
+    fieldGroup: null
+    handle: link3Text
+    instructions: ''
+    name: 'Link 3 Text'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  ccafd7ca-3768-4e9f-92c6-56ed30825dd3: # Link 1 Text
+    columnSuffix: rzlhnchp
+    contentColumnType: text
+    fieldGroup: null
+    handle: link1Text
+    instructions: ''
+    name: 'Link 1 Text'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  d77e6076-0548-4254-b697-8ffa9980271b: # Title
+    columnSuffix: itovaqsj
+    contentColumnType: text
+    fieldGroup: null
+    handle: slideTitle
+    instructions: ''
+    name: Title
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: shareSlide
+name: 'Share Slide'
+sortOrder: 4
