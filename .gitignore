@@ -11,3 +11,4 @@ google-app-credentials.json
 yarn-error.log
 package-lock.json
 .idea
+docker-compose-local-db.yml
