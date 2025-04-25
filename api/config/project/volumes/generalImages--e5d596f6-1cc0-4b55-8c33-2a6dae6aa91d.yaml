@@ -23,7 +23,7 @@ fieldLayouts:
             step: null
             tip: null
             title: null
-            type: craft\fieldlayoutelements\AssetTitleField
+            type: craft\fieldlayoutelements\assets\AssetTitleField
             warning: null
             width: 100
           -
@@ -37,18 +37,11 @@ fieldLayouts:
             width: 100
         name: Content
         sortOrder: 1
+fs: generalImages
 handle: generalImages
 hasUrls: true
 name: General
-settings:
-  bucket: $GCS_GENERAL_BUCKET
-  bucketSelectionMode: manual
-  expires: '5 minutes'
-  keyFileContents: ''
-  projectId: $GCP_PROJECT_ID
-  subfolder: ''
 sortOrder: 10
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
-type: craft\googlecloud\Volume
 url: '@assets'
