@@ -3,6 +3,7 @@ fieldLayouts:
   9d3be8ae-c19c-4b27-afec-3201f012257f:
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
@@ -10,7 +11,9 @@ fieldLayouts:
             autocorrect: true
             class: null
             disabled: false
+            elementCondition: null
             id: null
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -25,19 +28,37 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\TitleField
+            uid: 90e3a85e-89e7-4128-b3b6-eea13cf3744f
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 2817d4b1-3f70-458a-81c2-f82491ce138c # Main Color
             instructions: 'Used for icons among other things. '
-            label: ''
-            required: ''
+            label: null
+            required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 5908a1b3-8f83-4255-a64a-0d644ab3f3d9
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 79574a31-bf11-4c54-a036-bfbb99b93976 # Object Type Code
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 935e143b-0c8c-4eae-9377-0dbb087fecad
+            userCondition: null
             warning: null
             width: 100
         name: Content
-        sortOrder: 1
+        uid: b4e3d229-86d5-46a2-8f4f-40968c505428
+        userCondition: null
 handle: objectTypes
 name: 'Object types'
 siteSettings:
