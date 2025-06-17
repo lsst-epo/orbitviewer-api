@@ -48,5 +48,5 @@ return [
 
             return Craft::createObject($config);
         },
-    ],
+        ],
 ];
