@@ -4,8 +4,11 @@ log/access.log
 log/error.log
 .env
 app.yaml
+db/*.sql
 google-app-credentials.json
 
 /node_modules
 yarn-error.log
 package-lock.json
+.idea
+docker-compose-local-db.yml

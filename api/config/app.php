@@ -49,5 +49,4 @@ return [
             return Craft::createObject($config);
         },
         ],
-    //'bootstrap' => ['my-module'],
 ];
