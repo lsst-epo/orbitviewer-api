@@ -1,12 +1,13 @@
 {
     "minimum-stability": "dev",
     "require": {
+        "craftcms/ckeditor": "^3.11.1",
         "craftcms/cms": "^4.15.0.2",
         "craftcms/google-cloud": "^2.2.0",
         "sebastianlenz/linkfield": "^2.0.0-rc.2",
         "spicyweb/craft-neo": "^4.4.1",
         "vlucas/phpdotenv": "^3.4.0",
-        "craftcms/ckeditor": "^3.11.1"
+        "yiisoft/yii2-redis": "^2.0"
     },
     "require-dev": {
         "yiisoft/yii2-shell": "^2.0.3"
