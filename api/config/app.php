@@ -30,7 +30,7 @@ return [
             'hostname' => App::env('REDIS_HOST') ?: 'localhost',
             'port' => App::env('REDIS_PORT') ?: 6379,
             'password' => App::env('REDIS_PASSWORD') ?: null,
-            'database' => App::env('DB_DATABASE') ?: 0,
+            'database' => App::env('REDIS_CRAFT_DB') ?: 0,
             'useSSL' => App::env('REDIS_USE_SSL'),
             'contextOptions' => [
                 'ssl' => [
