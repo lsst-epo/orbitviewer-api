@@ -13,3 +13,5 @@ scope:
   - 'categorygroups.70ff59dd-8280-4bea-bef6-cfdf9ea4f0c2:read'
   - 'sites.2c2e1c6a-eb4d-44f1-9a43-8d79b326f354:read' # ES
   - 'sites.547128fa-4529-4483-9968-66425996b69f:read' # EN
+  - 'categorygroups.c0bf4db2-5962-4328-abcd-e6a0af1fbfc5:read' # Object types
+  - 'categorygroups.fd26bd16-cdc1-44cf-af77-ceb7ecc98e42:read' # Tours
