@@ -2,6 +2,7 @@ fieldLayouts:
   84f67ddb-6409-4d18-8544-129795a36da5:
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
@@ -9,7 +10,9 @@ fieldLayouts:
             autocorrect: true
             class: null
             disabled: false
+            elementCondition: null
             id: null
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -24,45 +27,61 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: fa2282fb-71a3-46b8-b14d-ff280d6be004
+            userCondition: null
             warning: null
             width: 100
         name: Content
-        sortOrder: 1
+        uid: addb1566-a41c-4874-bdc5-69bc3dc3727c
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 47f46a44-dcc9-44fb-80d4-7fe7a84c38d8
+            userCondition: null
             warning: null
             width: 25
           -
+            elementCondition: null
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 13ed8057-1084-4f49-a65e-206a753f4f52
+            userCondition: null
             warning: null
             width: 75
           -
+            elementCondition: null
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 0c1852de-5b3e-4988-80ec-11635ebbe75e
+            userCondition: null
             warning: null
             width: 100
         name: Seo
-        sortOrder: 2
+        uid: 402d9197-5561-4471-af7a-7fb005ec3d0c
+        userCondition: null
 handle: guidedExperiences
 hasTitleField: true
 name: 'Guided Experiences Page'
-section: 907d717b-d9ff-4449-abbf-7c7f5823851b # Guided Experiences Page
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 sortOrder: 1
 titleFormat: null
 titleTranslationKeyFormat: null

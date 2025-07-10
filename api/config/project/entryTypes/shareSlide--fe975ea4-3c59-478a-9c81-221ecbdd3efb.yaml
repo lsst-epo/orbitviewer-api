@@ -1,0 +1,210 @@
+color: null
+description: null
+fieldLayouts:
+  60511076-e137-4265-860d-d19bd833234a:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: d77e6076-0548-4254-b697-8ffa9980271b
+            handle: slideTitle
+            includeInCards: true
+            instructions: null
+            label: Title
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0d7bb323-9b58-44a8-a3a1-35041176d1ea
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 3cc93b5a-26a7-43b2-98d9-1d346f30440b
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: Text
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 22616ad7-35ff-4778-b9c0-31bf5e9fa462
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: ac760e25-4731-4206-b6a8-bc36fbf95448
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Links Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 16a46126-7212-47d7-a94c-4e2b3368c16f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 19012886-9bc8-45c8-98ca-619268a128d4
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 1'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 89891628-c341-413f-95a2-2338dc8a0d45
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: ccafd7ca-3768-4e9f-92c6-56ed30825dd3
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 1 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 45d0e0e4-92a2-4abc-873e-aaa61523a7a5
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 510835eb-8d26-4284-abbd-01750b50e6e0
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 2'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f7d63ebb-0c2f-4968-802f-c6a1218be46f
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 5ec16768-675f-4821-9d5c-bdda6be16ddf
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 2 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 87e02dd3-e01b-49ac-a635-d119541af393
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: a320b687-d7a3-4cba-9a9f-f696c52c859c
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 3'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4fbbccb2-e63a-45ed-b30e-acb3ea2f0a39
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: b8a1185f-57c4-4db0-a5c8-fab494cbef2d
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 3 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4e5651b6-79b4-45a9-b8c5-657c74fbdb7f
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 18324a33-d4f9-424d-b03a-c1e74f127122
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 4'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 43dcaf7e-7a9b-41f6-a0cb-f2b292f59117
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 3d8ca907-3314-4e70-8195-610c75f3ef68
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 4 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9f1c3ea6-1949-468d-ade5-e36a8d6ab47f
+            userCondition: null
+            warning: null
+            width: 50
+        name: Content
+        uid: e3873524-de6e-4cc9-b131-69f23c61d0bc
+        userCondition: null
+handle: shareSlide
+hasTitleField: false
+icon: null
+name: 'Share Slide'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

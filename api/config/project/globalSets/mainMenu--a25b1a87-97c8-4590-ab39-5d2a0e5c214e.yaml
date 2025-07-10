@@ -2,27 +2,35 @@ fieldLayouts:
   f9fd1e5a-b2b4-4d31-9663-10318a5c92a8:
     tabs:
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 96e2805b-5beb-443c-9ae0-8c03438cc369 # Help URL
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 75e843a5-208a-46b8-be91-19c3fe3785fe
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: bd7d2ebc-3cf3-4390-b6b5-4e6cc4f1deba # How to use URL
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 7a772075-3ef0-4eb0-8d15-dcc818c134bb
+            userCondition: null
             warning: null
             width: 100
         name: URLS
-        sortOrder: 1
+        uid: 005947e7-58b1-4645-b62e-caead1af521e
+        userCondition: null
 handle: mainMenu
 name: 'Main Menu'
 sortOrder: 9

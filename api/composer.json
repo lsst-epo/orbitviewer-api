@@ -1,14 +1,15 @@
 {
     "minimum-stability": "dev",
     "require": {
-        "craftcms/cms": "^4.15.0.2",
+        "craftcms/cms": "^5.8.5",
         "craftcms/google-cloud": "^2.2.0",
-        "sebastianlenz/linkfield": "^2.0.0-rc.2",
-        "spicyweb/craft-neo": "^4.4.1",
+        "sebastianlenz/linkfield": "^3.0.0-beta",
+        "spicyweb/craft-neo": "^5.4.0",
         "vlucas/phpdotenv": "^3.4.0",
-        "craftcms/ckeditor": "^3.11.1"
+        "craftcms/ckeditor": "^4.9.0"
     },
     "require-dev": {
+        "phpstan/phpstan": "2.1.x-dev",
         "yiisoft/yii2-shell": "^2.0.3"
     },
     "autoload": {

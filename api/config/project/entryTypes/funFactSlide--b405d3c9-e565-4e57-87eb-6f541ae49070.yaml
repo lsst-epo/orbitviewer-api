@@ -1,0 +1,40 @@
+color: null
+description: null
+fieldLayouts:
+  22bf4637-643b-40a7-abf2-8a011b346b1a:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 1345707a-2b07-4664-b8d2-25fcb9241212
+            handle: slideContent
+            includeInCards: true
+            instructions: null
+            label: Content
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1199bd1d-dc10-4634-9539-ae4dc4f36b97
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4f02cd0c-17e9-4ccf-9aba-557a60882d1a
+        userCondition: null
+handle: funFactSlide
+hasTitleField: false
+icon: null
+name: 'Fun Fact Slide'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
