@@ -1,6 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    uid: e84d2431-7574-44a8-9e23-019823b2dfc3 # Default
 handle: guidedExperiencesTours
+maxAuthors: 1
 name: 'Guided Experiences Tours'
 previewTargets:
   -

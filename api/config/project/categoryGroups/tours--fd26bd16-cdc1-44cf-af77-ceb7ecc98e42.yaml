@@ -3,6 +3,7 @@ fieldLayouts:
   27c72910-179e-4a2e-a075-8034d8e4559e:
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
@@ -10,7 +11,9 @@ fieldLayouts:
             autocorrect: true
             class: null
             disabled: false
+            elementCondition: null
             id: null
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -25,19 +28,25 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\TitleField
+            uid: 35a1a9b5-d1db-4355-9964-4adaf20543e5
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 96bb1d3d-4098-4112-9dc3-dbffbe908c62 # Tour Preview
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 42a707fb-50db-4686-9ad6-16430a3f2518
+            userCondition: null
             warning: null
             width: 100
         name: Content
-        sortOrder: 1
+        uid: d3d636d8-5292-43f6-bd43-7adfdb9dabe9
+        userCondition: null
 handle: tours
 name: Tours
 siteSettings:

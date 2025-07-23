@@ -1,0 +1,16 @@
+columnSuffix: trxtkxkz
+handle: link3Text
+instructions: null
+name: 'flexible - Share Slide - Link 3 Text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

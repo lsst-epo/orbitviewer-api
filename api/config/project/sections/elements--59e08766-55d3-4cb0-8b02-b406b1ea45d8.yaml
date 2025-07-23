@@ -1,6 +1,11 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    handle: default
+    uid: ec809547-cd72-4016-92f4-e72a89d6620c # Default
 handle: elements
+maxAuthors: 1
 name: 'Solar system Elements'
 previewTargets:
   -
