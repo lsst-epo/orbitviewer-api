@@ -1,73 +1,131 @@
+color: null
+description: null
 fieldLayouts:
   540efb32-80b5-419f-9af3-ffde8b2e6d57:
+    cardThumbAlignment: end
     tabs:
       -
+        elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 9ad945a2-a807-403c-aec6-ef28c7849b73 # Landing Logo
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 5808ca06-c79a-41f0-bec8-409a7488d3dd
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 1f8a9fe3-0e8c-4e3f-b6ce-0e1421fe0fbb # Landing Center Title
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 13dd0160-5e24-4ad5-9c61-47aa20834a0f
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 16e8811b-6d9d-44e1-83b2-16c02e1dcd5a # Landing Version
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 3151e0ed-6d16-43d7-a000-e5c3d6fb43fa
+            userCondition: null
             warning: null
             width: 100
         name: Landing
-        sortOrder: 1
+        uid: c2dc5abe-3ff2-4283-8584-197ac5dc69de
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: a4e46566-b657-4c5c-8cd1-9f7d022a4c3b
+            userCondition: null
             warning: null
             width: 25
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 66e9d9d8-d2ca-48b3-80ab-b3e0a3e0112c
+            userCondition: null
             warning: null
             width: 75
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 08827e0e-0466-4c6c-a51e-98e7ec3933c6
+            userCondition: null
             warning: null
             width: 100
         name: Seo
-        sortOrder: 2
+        uid: 61767ecb-4159-4b9a-a513-3151b08563cc
+        userCondition: null
 handle: landing
 hasTitleField: false
+icon: null
 name: Landing
-section: f1df2c63-97e5-49f0-8f4d-1e704d4945ac # Landing
-sortOrder: 1
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 titleFormat: '{section.name|raw}'
 titleTranslationKeyFormat: null
 titleTranslationMethod: site

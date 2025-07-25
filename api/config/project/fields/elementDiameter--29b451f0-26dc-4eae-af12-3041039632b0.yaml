@@ -1,19 +1,18 @@
 columnSuffix: llyrqmdu
-contentColumnType: 'decimal(12,2)'
-fieldGroup: 56f784c1-2182-4a9a-9e20-2e30e7b4a2bd # Solar system Elements
 handle: elementDiameter
 instructions: 'Diameter in KM'
 name: Diameter
 searchable: false
 settings:
-  decimals: '2'
+  decimals: 2
   defaultValue: 0
   max: null
   min: 0
   prefix: null
-  previewCurrency: ''
+  previewCurrency: null
   previewFormat: decimal
   size: null
+  step: null
   suffix: null
 translationKeyFormat: null
 translationMethod: none

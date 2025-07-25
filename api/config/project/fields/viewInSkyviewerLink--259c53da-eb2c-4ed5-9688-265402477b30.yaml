@@ -1,15 +1,14 @@
 columnSuffix: joqugqea
-contentColumnType: string(255)
-fieldGroup: 56f784c1-2182-4a9a-9e20-2e30e7b4a2bd # Solar system Elements
 handle: viewInSkyviewerLink
-instructions: ''
+instructions: null
 name: 'View In Skyviewer Link'
 searchable: false
 settings:
-  maxLength: '255'
-  placeholder: null
+  fullGraphqlData: false
+  maxLength: 255
+  showLabelField: false
   types:
     - url
 translationKeyFormat: null
 translationMethod: none
-type: craft\fields\Url
+type: craft\fields\Link

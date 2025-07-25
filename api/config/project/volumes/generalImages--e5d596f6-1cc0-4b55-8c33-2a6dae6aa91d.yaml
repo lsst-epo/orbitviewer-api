@@ -1,15 +1,23 @@
+altTranslationKeyFormat: null
+altTranslationMethod: site
 fieldLayouts:
   80e92c01-6237-493c-ab12-24da919aca7b:
+    cardThumbAlignment: end
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: null
             disabled: false
+            elementCondition: null
             id: null
+            includeInCards: false
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -17,6 +25,7 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -24,24 +33,36 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: 1e6ba450-49f7-47dc-9050-c965c2e8a38b
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 39af5de5-d299-4bc5-965a-af2d128c7f1a # Alternative Text
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 029f84d2-8483-4149-920c-c38cc80e4d2f
+            userCondition: null
             warning: null
             width: 100
         name: Content
-        sortOrder: 1
+        uid: c5acb6e1-57c4-4289-9aca-3bccbaac10af
+        userCondition: null
 fs: generalImages
 handle: generalImages
-hasUrls: true
 name: General
 sortOrder: 10
+subpath: ''
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
-url: '@assets'
+transformFs: null
+transformSubpath: ''

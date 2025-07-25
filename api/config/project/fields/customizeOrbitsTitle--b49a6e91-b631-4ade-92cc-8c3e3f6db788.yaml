@@ -1,17 +1,14 @@
 columnSuffix: fnigvmcu
-contentColumnType: text
-fieldGroup: 0eccfbd3-ee20-4548-bc48-01195998260d # Customize Orbits
 handle: customizeOrbitsTitle
-instructions: ''
+instructions: null
 name: 'Customize Orbits Title'
 searchable: false
 settings:
   byteLimit: null
   charLimit: null
-  code: ''
-  columnType: null
-  initialRows: '4'
-  multiline: ''
+  code: false
+  initialRows: 4
+  multiline: false
   placeholder: null
   uiMode: normal
 translationKeyFormat: null

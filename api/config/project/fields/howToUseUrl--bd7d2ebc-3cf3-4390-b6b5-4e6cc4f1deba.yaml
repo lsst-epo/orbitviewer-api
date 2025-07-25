@@ -1,15 +1,14 @@
 columnSuffix: eoxhumdw
-contentColumnType: string(255)
-fieldGroup: 823093aa-2491-437f-9e85-67fdf7449214 # Main Menu
 handle: howToUseUrl
-instructions: ''
+instructions: null
 name: 'How to use URL'
 searchable: false
 settings:
-  maxLength: '255'
-  placeholder: null
+  fullGraphqlData: false
+  maxLength: 255
+  showLabelField: false
   types:
     - url
 translationKeyFormat: null
 translationMethod: language
-type: craft\fields\Url
+type: craft\fields\Link

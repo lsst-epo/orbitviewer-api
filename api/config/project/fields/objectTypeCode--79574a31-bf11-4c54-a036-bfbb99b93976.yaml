@@ -1,6 +1,4 @@
 columnSuffix: rxnvonut
-contentColumnType: text
-fieldGroup: d88e4d7c-567a-4c5b-b0c3-6036b75d87df # Object Types
 handle: objectTypeCode
 instructions: "No type: 0\r\nAsteroid: 1\r\nNEO: 2\r\nTNO: 3\r\nCentaur: 4\r\nComet: 5\r\nISO: 6\r\n\r\nNOTE: For multiple values, use comma separated values."
 name: 'Object Type Code'
@@ -9,7 +7,6 @@ settings:
   byteLimit: null
   charLimit: null
   code: false
-  columnType: null
   initialRows: 4
   multiline: false
   placeholder: '0'

@@ -1,0 +1,91 @@
+color: null
+description: null
+fieldLayouts:
+  0f1c2dbe-d0b5-4ff7-9474-d07717911191:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7 # flexible - Intro Slide - Thumbnail
+            handle: null
+            includeInCards: true
+            instructions: null
+            label: Thumbnail
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 265dd52d-38bc-4721-83e3-bc6786e58c49
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35 # flexible - Intro Slide - Title
+            handle: slideTitle
+            includeInCards: false
+            instructions: null
+            label: Title
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 840f0a13-a22d-4a02-b93a-091a53ea841c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 45e9d096-0ab6-4324-af5e-61a1be9cff83 # flexible - Intro Slide - Sub Title
+            handle: subTitle
+            includeInCards: false
+            instructions: null
+            label: 'Sub Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 985751f3-413a-4680-bc54-94e4006fb387
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 4e3020e0-9db8-4f8c-8e2e-8884ac2a1a5d # flexible - Intro Slide - Content
+            handle: slideContent
+            includeInCards: false
+            instructions: null
+            label: Content
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d8fadadc-557c-49c3-9eeb-0c4f1488eb13
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: a69d3579-8a30-4de7-80a9-a27dbbc86923
+        userCondition: null
+handle: introSlide
+hasTitleField: false
+icon: null
+name: 'Intro Slide'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

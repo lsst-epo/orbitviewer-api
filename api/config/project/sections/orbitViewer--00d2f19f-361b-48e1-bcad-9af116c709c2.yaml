@@ -1,6 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    uid: c95c837c-b84e-47a5-9903-3c629af16aa8 # Orbit Viewer
 handle: orbitViewer
+maxAuthors: 1
 name: 'Orbit Viewer'
 previewTargets:
   -
@@ -9,11 +13,11 @@ previewTargets:
         - label
         - 'Primary entry page'
       -
-        - urlFormat
-        - '{url}'
-      -
         - refresh
         - '1'
+      -
+        - urlFormat
+        - '{url}'
 propagationMethod: all
 siteSettings:
   2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: # ES

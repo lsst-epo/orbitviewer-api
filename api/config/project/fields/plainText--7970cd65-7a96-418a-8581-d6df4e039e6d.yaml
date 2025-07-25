@@ -1,17 +1,14 @@
 columnSuffix: null
-contentColumnType: text
-fieldGroup: 9940892d-32f4-4399-acac-ab559ce1c82b # Common
 handle: plainText
-instructions: ''
+instructions: null
 name: 'Plain Text'
 searchable: true
 settings:
   byteLimit: null
   charLimit: null
-  code: ''
-  columnType: null
-  initialRows: '4'
-  multiline: ''
+  code: false
+  initialRows: 4
+  multiline: false
   placeholder: Text
   uiMode: normal
 translationKeyFormat: null

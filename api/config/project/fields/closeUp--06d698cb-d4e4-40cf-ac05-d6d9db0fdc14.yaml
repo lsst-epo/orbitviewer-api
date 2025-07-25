@@ -1,0 +1,26 @@
+columnSuffix: null
+handle: closeUp
+instructions: 'Pick a Solar System Element for a close up view'
+name: 'flexible - Default Slide - Close Up'
+searchable: false
+settings:
+  allowSelfRelations: false
+  branchLimit: null
+  defaultPlacement: end
+  maintainHierarchy: false
+  maxRelations: 1
+  minRelations: null
+  selectionLabel: null
+  showCardsInGrid: false
+  showSearchInput: true
+  showSiteMenu: false
+  showUnpermittedEntries: true
+  showUnpermittedSections: true
+  sources:
+    - 'section:59e08766-55d3-4cb0-8b02-b406b1ea45d8' # Solar system Elements
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Entries

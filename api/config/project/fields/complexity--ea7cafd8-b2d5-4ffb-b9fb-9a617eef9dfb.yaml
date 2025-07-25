@@ -1,6 +1,4 @@
 columnSuffix: goienywe
-contentColumnType: smallint(1)
-fieldGroup: 3c4d26f3-4aa2-48fd-8dd8-400929f9210e # Tours
 handle: complexity
 instructions: '1 - 5'
 name: Complexity
@@ -11,9 +9,10 @@ settings:
   max: 5
   min: 1
   prefix: null
-  previewCurrency: ''
+  previewCurrency: null
   previewFormat: none
   size: null
+  step: null
   suffix: null
 translationKeyFormat: null
 translationMethod: none

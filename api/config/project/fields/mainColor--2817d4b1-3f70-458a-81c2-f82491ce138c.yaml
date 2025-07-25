@@ -1,12 +1,10 @@
 columnSuffix: wtnutfkw
-contentColumnType: string(7)
-fieldGroup: d88e4d7c-567a-4c5b-b0c3-6036b75d87df # Object Types
 handle: mainColor
-instructions: ''
+instructions: null
 name: 'Main Color'
 searchable: false
 settings:
-  defaultColor: '#ff0000'
+  allowCustomColors: true
 translationKeyFormat: null
 translationMethod: none
 type: craft\fields\Color

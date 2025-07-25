@@ -1,15 +1,23 @@
+color: null
+description: null
 fieldLayouts:
   932dc7e8-1c60-4383-9fd0-703d43134cd2:
+    cardThumbAlignment: end
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: null
             disabled: false
+            elementCondition: null
             id: null
+            includeInCards: false
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -17,88 +25,149 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
-            requirable: false
+            required: true
             size: null
             step: null
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 0c7dfa00-ad49-4dae-a2c3-23ec7f81f0b1
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 3182a473-667d-439f-9cf2-b545be5c23d3 # Element ID
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 83c1b10b-3afe-4577-b320-e17b37d9cd25
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 53d8b6b6-280e-4d4a-adc1-2c3efcb4bd0a # Element Category
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 53d1aafd-3d4c-43ac-bcb3-1c97fef31e0c
+            userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 08df75ba-ecc2-470d-84c2-f004b1d30739 # Preview
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 7b858f9b-28f2-4be4-aef3-a5f0bf950c33
+            userCondition: null
             warning: null
             width: 100
         name: Reference
-        sortOrder: 1
+        uid: e9074376-5251-43a2-9e92-d581af369d11
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 29b451f0-26dc-4eae-af12-3041039632b0 # Diameter
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: eb806206-644d-4a5d-9a33-6a2bcc30f10f
+            userCondition: null
             warning: null
             width: 100
         name: Overview
-        sortOrder: 2
+        uid: b3620e19-c661-4114-8966-067af345667c
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 21cc607c-c26b-429e-890d-5cec1ac66c27
+            userCondition: null
             warning: null
             width: 100
         name: 'Context Information'
-        sortOrder: 3
+        uid: 8298d05b-a1c5-48d5-8a96-5ae24b45331e
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
             fieldUid: 259c53da-eb2c-4ed5-9688-265402477b30 # View In Skyviewer Link
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 0403d883-a21b-4872-bc63-98163054c668
+            userCondition: null
             warning: null
             width: 100
         name: 'Detailed Data'
-        sortOrder: 4
-handle: default
+        uid: 53b476f7-eac8-438c-a0e7-16cfbdadd35b
+        userCondition: null
+handle: elements_default
 hasTitleField: true
+icon: null
 name: Default
-section: 59e08766-55d3-4cb0-8b02-b406b1ea45d8 # Solar system Elements
-sortOrder: 1
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 titleFormat: null
 titleTranslationKeyFormat: null
 titleTranslationMethod: site

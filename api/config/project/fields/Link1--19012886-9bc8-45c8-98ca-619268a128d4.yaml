@@ -1,0 +1,14 @@
+columnSuffix: ttfahrve
+handle: Link1
+instructions: null
+name: 'flexible - Share Slide - Link 1'
+searchable: false
+settings:
+  fullGraphqlData: false
+  maxLength: 255
+  showLabelField: false
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Link
