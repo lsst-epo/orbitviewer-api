@@ -1,6 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    uid: 3cbe4fda-03b6-4891-b0ac-892db5b17bb8 # Landing
 handle: landing
+maxAuthors: 1
 name: Landing
 previewTargets:
   -

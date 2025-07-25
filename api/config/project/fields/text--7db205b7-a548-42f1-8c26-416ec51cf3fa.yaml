@@ -1,6 +1,5 @@
 columnSuffix: null
 contentColumnType: text
-fieldGroup: 9940892d-32f4-4399-acac-ab559ce1c82b # Common
 handle: text
 instructions: null
 name: Text
@@ -8,6 +7,7 @@ searchable: true
 settings:
   availableTransforms: ''
   availableVolumes: '*'
+  characterLimit: null
   ckeConfig: 7fe41358-2add-495c-a748-49a086b55040 # Simple
   columnType: text
   defaultTransform: null

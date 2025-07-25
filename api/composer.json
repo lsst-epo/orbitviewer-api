@@ -1,12 +1,13 @@
 {
     "minimum-stability": "dev",
     "require": {
-        "craftcms/cms": "^4.15.0.2",
+        "craftcms/ckeditor": "^4.9.0",
+        "craftcms/cms": "^5.8.5",
         "craftcms/google-cloud": "^2.2.0",
-        "sebastianlenz/linkfield": "^2.0.0-rc.2",
-        "spicyweb/craft-neo": "^4.4.1",
-        "vlucas/phpdotenv": "^3.4.0",
-        "craftcms/ckeditor": "^3.11.1"
+        "lsst-epo/canto-dam-assets": "dev-develop-v5",
+        "sebastianlenz/linkfield": "^3.0.0-beta",
+        "spicyweb/craft-neo": "^5.4.0",
+        "vlucas/phpdotenv": "^3.4.0"
     },
     "require-dev": {
         "yiisoft/yii2-shell": "^2.0.3"
@@ -20,7 +21,7 @@
         "sort-packages": true,
         "optimize-autoloader": true,
         "platform": {
-            "php": "8.1"
+            "php": "8.2"
         },
         "allow-plugins": {
             "yiisoft/yii2-composer": true,
@@ -33,6 +34,10 @@
         ]
     },
     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/lsst-epo/canto-dam-assets.git"
+        },
         {
             "type": "composer",
             "url": "https://composer.craftcms.com",

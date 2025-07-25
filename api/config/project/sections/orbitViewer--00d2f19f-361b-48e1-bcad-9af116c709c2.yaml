@@ -1,6 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    uid: c95c837c-b84e-47a5-9903-3c629af16aa8 # Orbit Viewer
 handle: orbitViewer
+maxAuthors: 1
 name: 'Orbit Viewer'
 previewTargets:
   -
