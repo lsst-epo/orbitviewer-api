@@ -1,0 +1,14 @@
+columnSuffix: uwxastzn
+handle: link2
+instructions: null
+name: 'flexible - Share Slide - Link 2'
+searchable: false
+settings:
+  fullGraphqlData: false
+  maxLength: 255
+  showLabelField: false
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Link

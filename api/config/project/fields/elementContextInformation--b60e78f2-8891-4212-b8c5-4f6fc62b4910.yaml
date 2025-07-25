@@ -1,17 +1,16 @@
 columnSuffix: jxwomlzl
 contentColumnType: text
-fieldGroup: 56f784c1-2182-4a9a-9e20-2e30e7b4a2bd # Solar system Elements
 handle: elementContextInformation
-instructions: ''
+instructions: null
 name: 'Context Information'
 searchable: false
 settings:
   byteLimit: null
   charLimit: null
-  code: ''
+  code: false
   columnType: null
-  initialRows: '4'
-  multiline: '1'
+  initialRows: 4
+  multiline: true
   placeholder: null
   uiMode: enlarged
 translationKeyFormat: null

@@ -1,21 +1,19 @@
 columnSuffix: null
 contentColumnType: string
-fieldGroup: 3c4d26f3-4aa2-48fd-8dd8-400929f9210e # Tours
 handle: tourPicker
-instructions: ''
+instructions: null
 name: 'Tour Picker'
 searchable: false
 settings:
-  allowLimit: false
-  allowMultipleSources: false
   allowSelfRelations: false
-  branchLimit: '1'
-  limit: null
+  branchLimit: 1
   localizeRelations: false
-  selectionLabel: ''
+  maintainHierarchy: true
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
   showSiteMenu: false
   source: 'group:fd26bd16-cdc1-44cf-af77-ceb7ecc98e42' # Tours
-  sources: '*'
   targetSiteId: null
   validateRelatedElements: false
   viewMode: null

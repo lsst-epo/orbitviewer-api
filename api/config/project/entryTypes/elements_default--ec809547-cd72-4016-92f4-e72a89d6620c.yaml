@@ -2,6 +2,7 @@ fieldLayouts:
   932dc7e8-1c60-4383-9fd0-703d43134cd2:
     tabs:
       -
+        elementCondition: null
         elements:
           -
             autocapitalize: true
@@ -9,7 +10,9 @@ fieldLayouts:
             autocorrect: true
             class: null
             disabled: false
+            elementCondition: null
             id: null
+            inputType: null
             instructions: null
             label: null
             max: null
@@ -24,80 +27,109 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: eea3e41d-0845-40f2-a508-1afea9a85ff7
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 3182a473-667d-439f-9cf2-b545be5c23d3 # Element ID
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: cad1fb9f-3812-4b77-85d8-1941c1f8bf32
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 53d8b6b6-280e-4d4a-adc1-2c3efcb4bd0a # Element Category
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 2a13f6d7-5a6b-46df-8b70-490bd20f9f9f
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 08df75ba-ecc2-470d-84c2-f004b1d30739 # Preview
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 5255e740-37f8-4a88-8b5e-f30de0c9c26a
+            userCondition: null
             warning: null
             width: 100
         name: Reference
-        sortOrder: 1
+        uid: 49e2c7e6-0ad2-41ce-97df-e3aa81740c02
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 29b451f0-26dc-4eae-af12-3041039632b0 # Diameter
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: ea0df950-4781-466f-a352-4526d47c5423
+            userCondition: null
             warning: null
             width: 100
         name: Overview
-        sortOrder: 2
+        uid: dc523bf3-e313-48e0-99da-ba4574cf2f9d
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 7e2838df-54ec-4715-9c08-844abb174064
+            userCondition: null
             warning: null
             width: 100
         name: 'Context Information'
-        sortOrder: 3
+        uid: 17be8a17-9c97-46f7-adf6-91b4a5f1acfd
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 259c53da-eb2c-4ed5-9688-265402477b30 # View In Skyviewer Link
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 36fefaff-e76a-47b5-aa09-54fd2a9fb254
+            userCondition: null
             warning: null
             width: 100
         name: 'Detailed Data'
-        sortOrder: 4
-handle: default
+        uid: 2feb84bb-67be-48f5-be6c-ff2577d5ecc3
+        userCondition: null
+handle: elements_default
 hasTitleField: true
 name: Default
-section: 59e08766-55d3-4cb0-8b02-b406b1ea45d8 # Solar system Elements
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 sortOrder: 1
 titleFormat: null
 titleTranslationKeyFormat: null
