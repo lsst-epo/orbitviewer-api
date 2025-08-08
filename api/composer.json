@@ -4,7 +4,7 @@
         "craftcms/ckeditor": "^4.9.0",
         "craftcms/cms": "^5.8.5",
         "craftcms/google-cloud": "^2.2.0",
-        "lsst-epo/canto-dam-assets": "4.5.7",
+        "lsst-epo/canto-dam-assets": "4.5.8",
         "sebastianlenz/linkfield": "^3.0.0-beta",
         "spicyweb/craft-neo": "^5.4.0",
         "vlucas/phpdotenv": "^3.4.0"

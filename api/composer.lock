@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab2cb643cf16a7d5ff56d97734fcc0d2",
+    "content-hash": "7a646cd05bf7cb85caae52d03e57bc15",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -3025,16 +3025,16 @@
         },
         {
             "name": "lsst-epo/canto-dam-assets",
-            "version": "4.5.7",
+            "version": "4.5.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lsst-epo/canto-dam-assets.git",
-                "reference": "fc4bc9af08d9f0211b6a7b08650002a2c8e1485f"
+                "reference": "f2ec7ac482585391920e3c9f870e33f2cadf2f11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/fc4bc9af08d9f0211b6a7b08650002a2c8e1485f",
-                "reference": "fc4bc9af08d9f0211b6a7b08650002a2c8e1485f",
+                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/f2ec7ac482585391920e3c9f870e33f2cadf2f11",
+                "reference": "f2ec7ac482585391920e3c9f870e33f2cadf2f11",
                 "shasum": ""
             },
             "require": {
@@ -3046,7 +3046,7 @@
                 "craftcms/ecs": "dev-main",
                 "craftcms/phpstan": "dev-main",
                 "craftcms/rector": "dev-main",
-                "verbb/super-table": "^3.0.0"
+                "verbb/super-table": ">=3.0.0"
             },
             "type": "craft-plugin",
             "extra": {
@@ -3087,7 +3087,7 @@
                 "issues": "https://github.com/lsst-epo/canto-dam-assets/issues",
                 "source": "https://github.com/lsst-epo/canto-dam-assets/"
             },
-            "time": "2025-08-08T18:47:08+00:00"
+            "time": "2025-08-08T21:10:58+00:00"
         },
         {
             "name": "masterminds/html5",
