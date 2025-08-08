@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fdcea126f1544f55028f376525a88619",
+    "content-hash": "49488991d892a0b02f9ff7af5c0cac4f",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -3025,16 +3025,16 @@
         },
         {
             "name": "lsst-epo/canto-dam-assets",
-            "version": "dev-develop-v5",
+            "version": "5.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lsst-epo/canto-dam-assets.git",
-                "reference": "8d73a09edb7a8c8b088b76c73a506f03077a3328"
+                "reference": "681e523813902ae429f20f69aa84af9d632584e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/8d73a09edb7a8c8b088b76c73a506f03077a3328",
-                "reference": "8d73a09edb7a8c8b088b76c73a506f03077a3328",
+                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/681e523813902ae429f20f69aa84af9d632584e4",
+                "reference": "681e523813902ae429f20f69aa84af9d632584e4",
                 "shasum": ""
             },
             "require": {
@@ -3062,14 +3062,14 @@
                 }
             },
             "scripts": {
+                "phpstan": [
+                    "vendor/bin/phpstan --ansi --memory-limit=1G"
+                ],
                 "check-cs": [
                     "ecs check --ansi"
                 ],
                 "fix-cs": [
-                    "ecs check --ansi --fix"
-                ],
-                "phpstan": [
-                    "phpstan --memory-limit=1G"
+                    "ecs check --fix --ansi"
                 ]
             },
             "license": [
@@ -3087,7 +3087,7 @@
                 "issues": "https://github.com/lsst-epo/canto-dam-assets/issues",
                 "source": "https://github.com/lsst-epo/canto-dam-assets/"
             },
-            "time": "2025-06-15T01:05:11+00:00"
+            "time": "2025-08-08T22:26:44+00:00"
         },
         {
             "name": "masterminds/html5",
@@ -9224,9 +9224,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "lsst-epo/canto-dam-assets": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {},
