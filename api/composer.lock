@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fdcea126f1544f55028f376525a88619",
+    "content-hash": "ab2cb643cf16a7d5ff56d97734fcc0d2",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -3025,35 +3025,35 @@
         },
         {
             "name": "lsst-epo/canto-dam-assets",
-            "version": "dev-develop-v5",
+            "version": "4.5.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lsst-epo/canto-dam-assets.git",
-                "reference": "8d73a09edb7a8c8b088b76c73a506f03077a3328"
+                "reference": "fc4bc9af08d9f0211b6a7b08650002a2c8e1485f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/8d73a09edb7a8c8b088b76c73a506f03077a3328",
-                "reference": "8d73a09edb7a8c8b088b76c73a506f03077a3328",
+                "url": "https://api.github.com/repos/lsst-epo/canto-dam-assets/zipball/fc4bc9af08d9f0211b6a7b08650002a2c8e1485f",
+                "reference": "fc4bc9af08d9f0211b6a7b08650002a2c8e1485f",
                 "shasum": ""
             },
             "require": {
-                "craftcms/cms": "^5.0.0",
-                "nystudio107/craft-plugin-vite": "^5.0.0",
-                "php": ">=8.2.0"
+                "craftcms/cms": ">=4.6.0",
+                "nystudio107/craft-plugin-vite": ">=4.0.0",
+                "php": ">=8.0.2"
             },
             "require-dev": {
                 "craftcms/ecs": "dev-main",
                 "craftcms/phpstan": "dev-main",
                 "craftcms/rector": "dev-main",
-                "verbb/super-table": "^4.0.0"
+                "verbb/super-table": "^3.0.0"
             },
             "type": "craft-plugin",
             "extra": {
                 "handle": "_canto-dam-assets",
                 "name": "Canto DAM Assets",
                 "developer": "nystudio107",
-                "documentationUrl": "https://github.com/lsst-epo/canto-dam-assets/blob/develop-v5/README.md",
+                "documentationUrl": "https://github.com/lsst-epo/canto-dam-assets/blob/develop-v4/README.md",
                 "class": "lsst\\cantodamassets\\CantoDamAssets"
             },
             "autoload": {
@@ -3062,14 +3062,14 @@
                 }
             },
             "scripts": {
+                "phpstan": [
+                    "vendor/bin/phpstan --ansi --memory-limit=1G"
+                ],
                 "check-cs": [
                     "ecs check --ansi"
                 ],
                 "fix-cs": [
-                    "ecs check --ansi --fix"
-                ],
-                "phpstan": [
-                    "phpstan --memory-limit=1G"
+                    "ecs check --fix --ansi"
                 ]
             },
             "license": [
@@ -3083,11 +3083,11 @@
             ],
             "description": "This Craft CMS plugin adds a Field Type with GraphQL support for the Canto Digital Asset Management (DAM) web system",
             "support": {
-                "docs": "https://github.com/lsst-epo/canto-dam-assets/blob/develop-v5/README.md",
+                "docs": "https://github.com/lsst-epo/canto-dam-assets/blob/develop-v4/README.md",
                 "issues": "https://github.com/lsst-epo/canto-dam-assets/issues",
                 "source": "https://github.com/lsst-epo/canto-dam-assets/"
             },
-            "time": "2025-06-15T01:05:11+00:00"
+            "time": "2025-08-08T18:47:08+00:00"
         },
         {
             "name": "masterminds/html5",
@@ -9224,9 +9224,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "lsst-epo/canto-dam-assets": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {},
