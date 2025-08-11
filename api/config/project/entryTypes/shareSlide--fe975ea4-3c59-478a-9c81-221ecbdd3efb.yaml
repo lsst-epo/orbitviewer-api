@@ -11,7 +11,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: d77e6076-0548-4254-b697-8ffa9980271b
+            fieldUid: d77e6076-0548-4254-b697-8ffa9980271b # flexible - Share Slide - Title
             handle: slideTitle
             includeInCards: true
             instructions: null
@@ -28,7 +28,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 3cc93b5a-26a7-43b2-98d9-1d346f30440b
+            fieldUid: 3cc93b5a-26a7-43b2-98d9-1d346f30440b # flexible - Share Slide - Text
             handle: null
             includeInCards: false
             instructions: null
@@ -45,7 +45,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: ac760e25-4731-4206-b6a8-bc36fbf95448
+            fieldUid: ac760e25-4731-4206-b6a8-bc36fbf95448 # flexible - Share Slide - Links Title
             handle: null
             includeInCards: false
             instructions: null
@@ -62,7 +62,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 19012886-9bc8-45c8-98ca-619268a128d4
+            fieldUid: 19012886-9bc8-45c8-98ca-619268a128d4 # flexible - Share Slide - Link 1
             handle: null
             includeInCards: false
             instructions: null
@@ -79,7 +79,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: ccafd7ca-3768-4e9f-92c6-56ed30825dd3
+            fieldUid: ccafd7ca-3768-4e9f-92c6-56ed30825dd3 # flexible - Share Slide - Link 1 Text
             handle: null
             includeInCards: false
             instructions: null
@@ -96,7 +96,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 510835eb-8d26-4284-abbd-01750b50e6e0
+            fieldUid: 510835eb-8d26-4284-abbd-01750b50e6e0 # flexible - Share Slide - Link 2
             handle: null
             includeInCards: false
             instructions: null
@@ -113,7 +113,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 5ec16768-675f-4821-9d5c-bdda6be16ddf
+            fieldUid: 5ec16768-675f-4821-9d5c-bdda6be16ddf # flexible - Share Slide - Link 2 Text
             handle: null
             includeInCards: false
             instructions: null
@@ -130,7 +130,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: a320b687-d7a3-4cba-9a9f-f696c52c859c
+            fieldUid: a320b687-d7a3-4cba-9a9f-f696c52c859c # flexible - Share Slide - Link 3
             handle: null
             includeInCards: false
             instructions: null
@@ -147,7 +147,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: b8a1185f-57c4-4db0-a5c8-fab494cbef2d
+            fieldUid: b8a1185f-57c4-4db0-a5c8-fab494cbef2d # flexible - Share Slide - Link 3 Text
             handle: null
             includeInCards: false
             instructions: null
@@ -164,7 +164,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 18324a33-d4f9-424d-b03a-c1e74f127122
+            fieldUid: 18324a33-d4f9-424d-b03a-c1e74f127122 # flexible - Share Slide - Link 4
             handle: null
             includeInCards: false
             instructions: null
@@ -181,7 +181,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 3d8ca907-3314-4e70-8195-610c75f3ef68
+            fieldUid: 3d8ca907-3314-4e70-8195-610c75f3ef68 # flexible - Share Slide - Link 4 Text
             handle: null
             includeInCards: false
             instructions: null

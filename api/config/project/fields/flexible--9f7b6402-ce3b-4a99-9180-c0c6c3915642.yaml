@@ -7,13 +7,13 @@ searchable: false
 settings:
   entryTypes:
     -
-      uid: d3d6215a-2225-4541-b17d-74eb58445af5
+      uid: d3d6215a-2225-4541-b17d-74eb58445af5 # Default Slide
     -
-      uid: a1432247-e10b-4c71-b669-23798d01a022
+      uid: a1432247-e10b-4c71-b669-23798d01a022 # Intro Slide
     -
-      uid: b405d3c9-e565-4e57-87eb-6f541ae49070
+      uid: b405d3c9-e565-4e57-87eb-6f541ae49070 # Fun Fact Slide
     -
-      uid: fe975ea4-3c59-478a-9c81-221ecbdd3efb
+      uid: fe975ea4-3c59-478a-9c81-221ecbdd3efb # Share Slide
   maxEntries: null
   minEntries: 1
   propagationKeyFormat: null

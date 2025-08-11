@@ -1,0 +1,96 @@
+columnSuffix: null
+handle: dataFileQuality
+instructions: null
+name: 'Data File Quality'
+searchable: false
+settings:
+  customOptions: false
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Low
+        -
+          - value
+          - low
+        -
+          - icon
+          - face-sad-cry
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Medium
+        -
+          - value
+          - medium
+        -
+          - icon
+          - face-frown
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - High
+        -
+          - value
+          - high
+        -
+          - icon
+          - face-smile-relaxed
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Ultra
+        -
+          - value
+          - ultra
+        -
+          - icon
+          - face-grin-wide
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Ultra2
+        -
+          - value
+          - ultra2
+        -
+          - icon
+          - face-grin-tongue-wink
+        -
+          - color
+          - ''
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown

@@ -11,7 +11,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7
+            fieldUid: c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7 # flexible - Intro Slide - Thumbnail
             handle: null
             includeInCards: true
             instructions: null
@@ -28,7 +28,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35
+            fieldUid: 20c31add-4c8c-4c9e-a6dc-4ccac3ecfe35 # flexible - Intro Slide - Title
             handle: slideTitle
             includeInCards: false
             instructions: null
@@ -45,7 +45,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 45e9d096-0ab6-4324-af5e-61a1be9cff83
+            fieldUid: 45e9d096-0ab6-4324-af5e-61a1be9cff83 # flexible - Intro Slide - Sub Title
             handle: subTitle
             includeInCards: false
             instructions: null
@@ -62,7 +62,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 4e3020e0-9db8-4f8c-8e2e-8884ac2a1a5d
+            fieldUid: 4e3020e0-9db8-4f8c-8e2e-8884ac2a1a5d # flexible - Intro Slide - Content
             handle: slideContent
             includeInCards: false
             instructions: null

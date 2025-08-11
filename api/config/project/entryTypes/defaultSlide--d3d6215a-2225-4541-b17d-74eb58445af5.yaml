@@ -11,7 +11,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: c5e2a1ff-7d99-4956-8b74-c79601fad6fe
+            fieldUid: c5e2a1ff-7d99-4956-8b74-c79601fad6fe # flexible - Default Slide - Title
             handle: null
             includeInCards: true
             instructions: null
@@ -28,7 +28,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 433dd9ce-77cb-4942-8b4d-8e347439bc61
+            fieldUid: 433dd9ce-77cb-4942-8b4d-8e347439bc61 # flexible - Default Slide - Sub Title
             handle: null
             includeInCards: false
             instructions: null
@@ -45,7 +45,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 9f3fe24e-520b-44fc-97f5-fa9a2d2622b0
+            fieldUid: 9f3fe24e-520b-44fc-97f5-fa9a2d2622b0 # flexible - Default Slide - Content
             handle: null
             includeInCards: false
             instructions: null
@@ -62,7 +62,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 06d698cb-d4e4-40cf-ac05-d6d9db0fdc14
+            fieldUid: 06d698cb-d4e4-40cf-ac05-d6d9db0fdc14 # flexible - Default Slide - Close Up
             handle: null
             includeInCards: false
             instructions: null

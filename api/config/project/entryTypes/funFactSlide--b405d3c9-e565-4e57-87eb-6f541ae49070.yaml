@@ -11,7 +11,7 @@ fieldLayouts:
             dateAdded: null
             editCondition: null
             elementCondition: null
-            fieldUid: 1345707a-2b07-4664-b8d2-25fcb9241212
+            fieldUid: 1345707a-2b07-4664-b8d2-25fcb9241212 # flexible - Fun Fact Slide - Content
             handle: slideContent
             includeInCards: true
             instructions: null
