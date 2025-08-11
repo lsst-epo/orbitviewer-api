@@ -1,0 +1,36 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: ad100cf4-b13d-499b-81ec-170fa9380f19 # MPC Data Files
+handle: mpcDataFiles
+maxAuthors: 1
+name: 'MPC Data Files'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: # ES
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'mpc-data-files/{slug}'
+  547128fa-4529-4483-9968-66425996b69f: # EN
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'mpc-data-files/{slug}'
+structure:
+  maxLevels: null
+  uid: 7bef32fa-ee17-408c-849b-42bb6ef870df
+type: structure
