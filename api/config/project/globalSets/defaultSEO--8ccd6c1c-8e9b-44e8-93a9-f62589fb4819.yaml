@@ -2,45 +2,59 @@ fieldLayouts:
   3a661c42-268a-4134-af14-45715ef1c9c2:
     tabs:
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: a022545d-8a4f-44cf-adcb-3954b7721751 # SEO Site Name
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: d71c276f-a2a5-4bcf-81ab-0aba3cf4be9b
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 74020b6c-b226-4f6c-a1b3-21d7c00a6dff
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: dff60ae1-f347-4e03-8de7-a19225051ee5
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: b4896594-7e85-49d4-886b-ad93a83e362d
+            userCondition: null
             warning: null
             width: 100
         name: Metadata
-        sortOrder: 1
+        uid: e4f2c494-6657-4d51-b909-fc533ff5acf7
+        userCondition: null
 handle: defaultSEO
 name: 'Default SEO'
 sortOrder: 1

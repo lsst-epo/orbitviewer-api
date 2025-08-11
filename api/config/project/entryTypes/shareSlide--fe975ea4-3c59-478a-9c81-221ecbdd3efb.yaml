@@ -1,0 +1,210 @@
+color: null
+description: null
+fieldLayouts:
+  60511076-e137-4265-860d-d19bd833234a:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: d77e6076-0548-4254-b697-8ffa9980271b # flexible - Share Slide - Title
+            handle: slideTitle
+            includeInCards: true
+            instructions: null
+            label: Title
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: dfd22143-2593-4bd9-a8b5-aee127b5c872
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 3cc93b5a-26a7-43b2-98d9-1d346f30440b # flexible - Share Slide - Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: Text
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 46d1298d-c4df-4a29-9ab8-542e25b969f5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: ac760e25-4731-4206-b6a8-bc36fbf95448 # flexible - Share Slide - Links Title
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Links Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7cb4576a-dc0f-413f-b254-13fbaca1f91a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 19012886-9bc8-45c8-98ca-619268a128d4 # flexible - Share Slide - Link 1
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 1'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 10935e5e-1724-492e-b860-8a7c94990ac7
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: ccafd7ca-3768-4e9f-92c6-56ed30825dd3 # flexible - Share Slide - Link 1 Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 1 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ebaef93c-02c0-4191-aa09-18bafe08ed53
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 510835eb-8d26-4284-abbd-01750b50e6e0 # flexible - Share Slide - Link 2
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 2'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f6c87da1-84b3-4812-81c1-13aac5dd0f29
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 5ec16768-675f-4821-9d5c-bdda6be16ddf # flexible - Share Slide - Link 2 Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 2 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4f146bbd-7f65-478c-955d-f1b11e1f058d
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: a320b687-d7a3-4cba-9a9f-f696c52c859c # flexible - Share Slide - Link 3
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 3'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f087c34c-9665-4553-a493-0c29ec545ba1
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: b8a1185f-57c4-4db0-a5c8-fab494cbef2d # flexible - Share Slide - Link 3 Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 3 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f0e40b66-0a2b-4d00-81cc-15729b677740
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 18324a33-d4f9-424d-b03a-c1e74f127122 # flexible - Share Slide - Link 4
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 4'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 91fc46a9-9a80-4cb0-989b-faa70fb04dd6
+            userCondition: null
+            warning: null
+            width: 50
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 3d8ca907-3314-4e70-8195-610c75f3ef68 # flexible - Share Slide - Link 4 Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Link 4 Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f4daf332-75ac-444d-8bb6-df42e219c41f
+            userCondition: null
+            warning: null
+            width: 50
+        name: Content
+        uid: 8bbc6e6a-54e0-415d-872a-42c60e752eb2
+        userCondition: null
+handle: shareSlide
+hasTitleField: false
+icon: null
+name: 'Share Slide'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

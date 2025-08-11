@@ -5,6 +5,7 @@ log/error.log
 .env
 app.yaml
 db/*.sql
+db/db.sql
 google-app-credentials.json
 
 /node_modules
@@ -12,3 +13,5 @@ yarn-error.log
 package-lock.json
 .idea
 docker-compose-local-db.yml
+
+docker-compose-local-db.yaml

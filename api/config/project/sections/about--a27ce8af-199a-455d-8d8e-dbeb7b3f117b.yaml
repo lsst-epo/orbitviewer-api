@@ -1,6 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
+entryTypes:
+  -
+    uid: 52519e78-2e53-47c5-aa84-c2345d520393 # About
 handle: about
+maxAuthors: 1
 name: About
 previewTargets:
   -

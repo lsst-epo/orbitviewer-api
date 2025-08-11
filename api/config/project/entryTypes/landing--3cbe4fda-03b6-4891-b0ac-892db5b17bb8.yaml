@@ -2,71 +2,122 @@ fieldLayouts:
   540efb32-80b5-419f-9af3-ffde8b2e6d57:
     tabs:
       -
+        elementCondition: null
         elements:
           -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: d8371bab-3b41-4185-b99b-ab219c155a20
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
             fieldUid: 9ad945a2-a807-403c-aec6-ef28c7849b73 # Landing Logo
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 4bb40ecc-650b-4824-aca6-bfff7ac05f5d
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 1f8a9fe3-0e8c-4e3f-b6ce-0e1421fe0fbb # Landing Center Title
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 4715a25e-f1a1-49c9-81dc-819b639db5fa
+            userCondition: null
             warning: null
             width: 100
           -
+            elementCondition: null
             fieldUid: 16e8811b-6d9d-44e1-83b2-16c02e1dcd5a # Landing Version
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 3b70135d-0c24-4fe3-b0bb-c0f8c6172eff
+            userCondition: null
             warning: null
             width: 100
         name: Landing
-        sortOrder: 1
+        uid: 6bd66f88-49af-4921-a8f0-a9b03b2613fa
+        userCondition: null
       -
+        elementCondition: null
         elements:
           -
+            elementCondition: null
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 20af9189-59b9-41e2-baad-c2eb8af37ed2
+            userCondition: null
             warning: null
             width: 25
           -
+            elementCondition: null
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 28b1943c-e52e-4dbe-9e92-b03f8874f343
+            userCondition: null
             warning: null
             width: 75
           -
+            elementCondition: null
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
+            uid: 880a1010-64a8-4812-8af6-8cbb6498ad80
+            userCondition: null
             warning: null
             width: 100
         name: Seo
-        sortOrder: 2
+        uid: c03d58fd-dd56-4e0e-a584-2c7cb41ff70d
+        userCondition: null
 handle: landing
 hasTitleField: false
 name: Landing
-section: f1df2c63-97e5-49f0-8f4d-1e704d4945ac # Landing
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 sortOrder: 1
 titleFormat: '{section.name|raw}'
 titleTranslationKeyFormat: null

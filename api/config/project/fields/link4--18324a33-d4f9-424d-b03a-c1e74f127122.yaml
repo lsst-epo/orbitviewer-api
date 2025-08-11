@@ -1,0 +1,14 @@
+columnSuffix: enunohnk
+handle: link4
+instructions: null
+name: 'flexible - Share Slide - Link 4'
+searchable: false
+settings:
+  fullGraphqlData: false
+  maxLength: 255
+  showLabelField: false
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Link

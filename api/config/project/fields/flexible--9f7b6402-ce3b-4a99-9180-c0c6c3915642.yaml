@@ -1,16 +1,24 @@
 columnSuffix: null
 contentColumnType: string
-fieldGroup: 3c4d26f3-4aa2-48fd-8dd8-400929f9210e # Tours
 handle: flexible
-instructions: ''
+instructions: null
 name: flexible
 searchable: false
 settings:
-  contentTable: '{{%matrixcontent_flexible}}'
-  maxBlocks: ''
-  minBlocks: '1'
+  entryTypes:
+    -
+      uid: d3d6215a-2225-4541-b17d-74eb58445af5 # Default Slide
+    -
+      uid: a1432247-e10b-4c71-b669-23798d01a022 # Intro Slide
+    -
+      uid: b405d3c9-e565-4e57-87eb-6f541ae49070 # Fun Fact Slide
+    -
+      uid: fe975ea4-3c59-478a-9c81-221ecbdd3efb # Share Slide
+  maxEntries: null
+  minEntries: 1
   propagationKeyFormat: null
   propagationMethod: all
+  viewMode: blocks
 translationKeyFormat: null
 translationMethod: site
 type: craft\fields\Matrix

@@ -1,0 +1,91 @@
+color: null
+description: null
+fieldLayouts:
+  125e77e9-6ae3-415b-ae26-5301dfcdf27b:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: c5e2a1ff-7d99-4956-8b74-c79601fad6fe # flexible - Default Slide - Title
+            handle: null
+            includeInCards: true
+            instructions: null
+            label: Title
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7e387dd8-7bf6-4419-972e-fd70de8cfbb9
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 433dd9ce-77cb-4942-8b4d-8e347439bc61 # flexible - Default Slide - Sub Title
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Sub Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 029cd45d-956a-4917-a991-05bce29eab54
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 9f3fe24e-520b-44fc-97f5-fa9a2d2622b0 # flexible - Default Slide - Content
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: Content
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d64bfb31-5435-45e1-ad8b-05467ed6c130
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            fieldUid: 06d698cb-d4e4-40cf-ac05-d6d9db0fdc14 # flexible - Default Slide - Close Up
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: 'Close Up'
+            providesThumbs: true
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c49fff30-83f0-46b8-8602-acc0fcc884be
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: ca8fcd94-5b8f-4c55-b802-9c872491907e
+        userCondition: null
+handle: defaultSlide
+hasTitleField: false
+icon: null
+name: 'Default Slide'
+showSlugField: false
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
