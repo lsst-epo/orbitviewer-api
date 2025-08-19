@@ -1,0 +1,29 @@
+columnSuffix: null
+handle: sideBySideTextAndImage
+instructions: null
+name: 'Side By Side - Text and Image'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  enableVersioning: false
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 1fb61d18-ada9-4dd0-9334-600a98231427 # Side-By-Side Text and Image
+        -
+          - group
+          - General
+  includeTableView: false
+  maxEntries: 1
+  minEntries: 1
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

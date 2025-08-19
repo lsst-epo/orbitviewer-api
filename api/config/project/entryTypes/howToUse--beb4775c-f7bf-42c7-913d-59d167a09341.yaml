@@ -1,0 +1,104 @@
+color: null
+description: null
+fieldLayouts:
+  3ee253f3-1fa4-4e3d-9ba3-20a822ee0b9f:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-08-19T20:11:29+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 202599f6-6c80-4c6e-8ef5-6761dccddc61
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-19T20:36:45+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
+            handle: eyebrowText
+            includeInCards: false
+            instructions: null
+            label: 'Eyebrow Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 358af1d2-1ad1-4736-9b9d-e027696aed09
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-19T20:36:45+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
+            handle: headerText
+            includeInCards: false
+            instructions: null
+            label: 'Header Text'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4f470497-689f-45f1-b01a-20d6e21211fb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-19T20:40:10+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 56bbb436-ffdb-48a5-ab6a-cba9ce9d8d96 # How To Use Section
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f6b17b23-c3c7-4c56-970a-fb788f1ba36b
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: afbbb855-caaf-4ae2-9837-3790a2d84ac4
+        userCondition: null
+handle: howToUse
+hasTitleField: true
+icon: null
+name: 'How to Use'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: none
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

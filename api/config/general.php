@@ -32,7 +32,7 @@ return [
         'aliases' => [
             '@assets' => sprintf(
                 $gcsBucketPathFormat,
-                App::env('GCS_GENERAL_BUCKET')
+                App::env('ORBITVIEWER_ASSETS_BUCKET')
             ),
         ],
 

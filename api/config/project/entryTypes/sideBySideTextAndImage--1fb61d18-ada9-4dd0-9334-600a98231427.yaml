@@ -1,0 +1,87 @@
+color: null
+description: "For displaying text and image side-by-side. The title won't be displayed on the frontend, but it required by Craft."
+fieldLayouts:
+  8913bde7-94ef-456d-9ec2-41165aa302f2:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2025-08-13T18:32:08+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: cd6f06ee-ad79-45f4-b7b2-28230e678917
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-13T18:35:35+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a7b9dad8-b041-4b81-9c18-21c4b6e7fb50
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-13T18:35:35+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 9af8132e-aa2f-4181-8be5-920d625c0289 # Canto DAM Asset
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cc524437-8314-4ffa-b68e-e334e2c4bc47
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: fac058ba-4b38-44de-b490-65cc2d57c639
+        userCondition: null
+handle: sideBySideTextAndImage
+hasTitleField: true
+icon: subtitles
+name: 'Side-By-Side Text and Image'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: none
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

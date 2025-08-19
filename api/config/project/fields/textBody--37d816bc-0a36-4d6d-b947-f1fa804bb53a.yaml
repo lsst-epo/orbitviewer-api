@@ -1,8 +1,8 @@
 columnSuffix: null
-handle: text
+handle: textBody
 instructions: null
-name: Text
-searchable: true
+name: 'Text Body'
+searchable: false
 settings:
   availableTransforms: ''
   availableVolumes: '*'
@@ -11,7 +11,7 @@ settings:
   createButtonLabel: null
   defaultTransform: null
   expandEntryButtons: false
-  fullGraphqlData: false
+  fullGraphqlData: true
   parseEmbeds: false
   purifierConfig: null
   purifyHtml: true
