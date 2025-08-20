@@ -4,23 +4,13 @@ instructions: null
 name: Text
 searchable: true
 settings:
-  availableTransforms: ''
-  availableVolumes: '*'
-  characterLimit: null
-  ckeConfig: 711053a2-a608-4448-8477-580ff814a7d7 # Advanced
-  createButtonLabel: null
-  defaultTransform: null
-  expandEntryButtons: false
-  fullGraphqlData: false
-  parseEmbeds: false
-  purifierConfig: null
-  purifyHtml: true
-  showUnpermittedFiles: false
-  showUnpermittedVolumes: false
-  showWordCount: false
-  sourceEditingGroups:
-    - __ADMINS__
-  wordLimit: null
+  byteLimit: null
+  charLimit: null
+  code: false
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
 translationKeyFormat: null
 translationMethod: none
-type: craft\ckeditor\Field
+type: craft\fields\PlainText
