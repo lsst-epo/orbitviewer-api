@@ -1,0 +1,82 @@
+childBlocks: null
+color: null
+conditions: null
+description: ''
+enabled: true
+entryType: null
+field: 56bbb436-ffdb-48a5-ab6a-cba9ce9d8d96 # How To Use Section
+fieldLayouts:
+  c84838c1-2082-4eb4-9cb8-faec16b8dd45:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2025-08-19T20:38:32+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7db205b7-a548-42f1-8c26-416ec51cf3fa # Text
+            handle: sectionTitle
+            includeInCards: false
+            instructions: null
+            label: 'Section Title'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5dfcbd71-000d-4896-b298-da88f665139e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-19T20:39:34+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 37d816bc-0a36-4d6d-b947-f1fa804bb53a # Text Body
+            handle: sectionBody
+            includeInCards: false
+            instructions: null
+            label: 'Section Body'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e56b7bd4-b4ee-463a-bc79-993b1df1892a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-08-19T20:38:32+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: e8dcbb92-c170-4e0e-831b-d068fbd2f9b6 # About Image
+            handle: sectionImage
+            includeInCards: false
+            instructions: null
+            label: 'Section Image'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: afce86e9-bd05-4e8d-b873-36e86df7201b
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'How to Use Section'
+        uid: 421c1c85-6ec0-496c-bd10-345f385af453
+        userCondition: null
+group: null
+groupChildBlockTypes: true
+handle: section
+icon: null
+iconFilename: ''
+ignorePermissions: true
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+minBlocks: 0
+minChildBlocks: 0
+minSiblingBlocks: 0
+name: Section
+topLevel: true

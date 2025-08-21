@@ -1,24 +1,16 @@
 columnSuffix: null
-contentColumnType: text
 handle: text
 instructions: null
 name: Text
 searchable: true
 settings:
-  availableTransforms: ''
-  availableVolumes: '*'
-  characterLimit: null
-  ckeConfig: 7fe41358-2add-495c-a748-49a086b55040 # Simple
-  columnType: text
-  defaultTransform: null
-  purifierConfig: null
-  purifyHtml: true
-  showUnpermittedFiles: false
-  showUnpermittedVolumes: false
-  showWordCount: false
-  sourceEditingGroups:
-    - __ADMINS__
-  wordLimit: null
+  byteLimit: null
+  charLimit: null
+  code: false
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
 translationKeyFormat: null
 translationMethod: none
-type: craft\ckeditor\Field
+type: craft\fields\PlainText

@@ -1,9 +1,8 @@
 columnSuffix: null
-contentColumnType: string
-handle: contentBlocks
+handle: howToUseSection
 instructions: null
-name: 'Content Blocks'
-searchable: true
+name: 'How To Use Section'
+searchable: false
 settings:
   maxBlocks: null
   maxLevels: null

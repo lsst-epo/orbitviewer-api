@@ -3,10 +3,14 @@ name: 'Public Schema'
 scope:
   - 'sites.547128fa-4529-4483-9968-66425996b69f:read' # EN
   - 'sites.2c2e1c6a-eb4d-44f1-9a43-8d79b326f354:read' # ES
-  - 'sections.a27ce8af-199a-455d-8d8e-dbeb7b3f117b:read' # About
+  - 'sections.9d39f53e-449f-4d2a-8e27-e6c4bf0ad31b:read' # About
+  - 'sections.dfabaec1-0da0-4246-bb1c-ae480c8b72a8:read' # How to Use
   - 'sections.f1df2c63-97e5-49f0-8f4d-1e704d4945ac:read' # Landing
+  - 'sections.ef474ef1-31d2-45c5-8419-cb15202ba296:read' # Guided Experiences Tours
   - 'sections.5d16435b-a18f-4b00-a62e-eb5a38f64561:read' # MPC Data Files
   - 'sections.59e08766-55d3-4cb0-8b02-b406b1ea45d8:read' # Solar system Elements
+  - 'nestedentryfields.7db205b7-a548-42f1-8c26-416ec51cf3fa:read' # Text
+  - 'nestedentryfields.37d816bc-0a36-4d6d-b947-f1fa804bb53a:read' # Text Body
   - 'globalsets.8ccd6c1c-8e9b-44e8-93a9-f62589fb4819:read' # Default SEO
   - 'categorygroups.c0bf4db2-5962-4328-abcd-e6a0af1fbfc5:read' # Object types
   - 'categorygroups.fd26bd16-cdc1-44cf-af77-ceb7ecc98e42:read' # Tours

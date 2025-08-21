@@ -1,0 +1,10 @@
+columnSuffix: null
+handle: cantoDamAsset
+instructions: null
+name: 'Canto DAM Asset'
+searchable: false
+settings:
+  cantoAssetPickerType: singleImagePicker
+translationKeyFormat: null
+translationMethod: none
+type: lsst\cantodamassets\fields\CantoDamAsset

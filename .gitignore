@@ -15,3 +15,4 @@ package-lock.json
 docker-compose-local-db.yml
 
 docker-compose-local-db.yaml
+api/gcp-key.json
