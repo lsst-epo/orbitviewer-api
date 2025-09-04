@@ -2,7 +2,7 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: 2f6b435a-5a6c-4f32-b8b5-4aae301d1738 # Customize Orbits
+    uid: 2f6b435a-5a6c-4f32-b8b5-4aae301d1738
 handle: customizeOrbits
 maxAuthors: 1
 name: 'Customize Orbits'
