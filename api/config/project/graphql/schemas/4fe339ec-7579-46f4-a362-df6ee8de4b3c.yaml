@@ -8,6 +8,7 @@ scope:
   - 'sections.f1df2c63-97e5-49f0-8f4d-1e704d4945ac:read' # Landing
   - 'sections.ef474ef1-31d2-45c5-8419-cb15202ba296:read' # Guided Experiences Tours
   - 'sections.5d16435b-a18f-4b00-a62e-eb5a38f64561:read' # MPC Data Files
+  - 'sections.67672179-938f-44ec-aeea-d4e004a2e66b:read' # Pages
   - 'sections.59e08766-55d3-4cb0-8b02-b406b1ea45d8:read' # Solar system Elements
   - 'nestedentryfields.37d816bc-0a36-4d6d-b947-f1fa804bb53a:read' # Text Body
   - 'volumes.e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d:read' # General

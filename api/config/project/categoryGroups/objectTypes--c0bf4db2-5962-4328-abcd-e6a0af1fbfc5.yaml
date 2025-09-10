@@ -1,6 +1,7 @@
 defaultPlacement: beginning
 fieldLayouts:
   9d3be8ae-c19c-4b27-afec-3201f012257f:
+    cardThumbAlignment: end
     tabs:
       -
         elementCondition: null
@@ -10,9 +11,11 @@ fieldLayouts:
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: '2025-09-10T21:10:57+00:00'
             disabled: false
             elementCondition: null
             id: null
+            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -21,6 +24,7 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -33,10 +37,15 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: '2025-09-10T21:10:57+00:00'
+            editCondition: null
             elementCondition: null
             fieldUid: 2817d4b1-3f70-458a-81c2-f82491ce138c # Main Color
+            handle: null
+            includeInCards: false
             instructions: 'Used for icons among other things. '
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -45,14 +54,36 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: '2025-09-10T21:10:57+00:00'
+            editCondition: null
             elementCondition: null
             fieldUid: 79574a31-bf11-4c54-a036-bfbb99b93976 # Object Type Code
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
             uid: 935e143b-0c8c-4eae-9377-0dbb087fecad
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-10T21:13:05+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: f46a1722-90eb-4ff8-a5c6-358934674aba # Description
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1be9687e-b827-4719-a79b-bb054e8df3bd
             userCondition: null
             warning: null
             width: 100

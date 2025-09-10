@@ -1,5 +1,8 @@
+color: null
+description: null
 fieldLayouts:
   540efb32-80b5-419f-9af3-ffde8b2e6d57:
+    cardThumbAlignment: end
     tabs:
       -
         elementCondition: null
@@ -9,9 +12,11 @@ fieldLayouts:
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: '2025-09-10T21:36:00+00:00'
             disabled: false
             elementCondition: null
             id: null
+            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -20,105 +25,114 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
-            requirable: false
+            required: true
             size: null
             step: null
             tip: null
             title: null
             type: craft\fieldlayoutelements\entries\EntryTitleField
-            uid: d8371bab-3b41-4185-b99b-ab219c155a20
+            uid: 09f07a19-e498-4e54-b481-56c87f59a954
             userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: '2025-09-10T21:41:51+00:00'
+            editCondition: null
             elementCondition: null
-            fieldUid: 9ad945a2-a807-403c-aec6-ef28c7849b73 # Landing Logo
+            fieldUid: e8dcbb92-c170-4e0e-831b-d068fbd2f9b6 # About Image
+            handle: logoImage
+            includeInCards: false
             instructions: null
-            label: null
+            label: 'Logo Image'
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 4bb40ecc-650b-4824-aca6-bfff7ac05f5d
+            uid: f8adfc5d-6153-4474-bf74-0c06d09f76ff
             userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: '2025-09-10T21:41:51+00:00'
+            editCondition: null
             elementCondition: null
-            fieldUid: 1f8a9fe3-0e8c-4e3f-b6ce-0e1421fe0fbb # Landing Center Title
+            fieldUid: 7970cd65-7a96-418a-8581-d6df4e039e6d # Plain Text
+            handle: eyebrowText
+            includeInCards: false
             instructions: null
-            label: null
+            label: 'Eyeybrow Text'
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 4715a25e-f1a1-49c9-81dc-819b639db5fa
+            uid: 4395059c-2dff-4e15-9636-02af10960c87
             userCondition: null
             warning: null
             width: 100
           -
+            dateAdded: '2025-09-10T21:41:51+00:00'
+            editCondition: null
             elementCondition: null
-            fieldUid: 16e8811b-6d9d-44e1-83b2-16c02e1dcd5a # Landing Version
+            fieldUid: 7970cd65-7a96-418a-8581-d6df4e039e6d # Plain Text
+            handle: headlineText
+            includeInCards: false
             instructions: null
-            label: null
+            label: Headline
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 3b70135d-0c24-4fe3-b0bb-c0f8c6172eff
+            uid: 076cecfc-7fd7-4c3d-baf0-1c1e0de907d2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-10T21:41:51+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7970cd65-7a96-418a-8581-d6df4e039e6d # Plain Text
+            handle: buttonLabel
+            includeInCards: false
+            instructions: null
+            label: 'Button Label'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6b2ccf0a-3c25-49e5-8135-03437e4bcb59
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2025-09-10T21:41:51+00:00'
+            editCondition: null
+            elementCondition: null
+            fieldUid: 7970cd65-7a96-418a-8581-d6df4e039e6d # Plain Text
+            handle: discoveryLabel
+            includeInCards: false
+            instructions: null
+            label: 'Discovery Label'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 089e4f5a-88e5-40b2-888c-cdb3363344dd
             userCondition: null
             warning: null
             width: 100
         name: Landing
         uid: 6bd66f88-49af-4921-a8f0-a9b03b2613fa
         userCondition: null
-      -
-        elementCondition: null
-        elements:
-          -
-            elementCondition: null
-            fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            uid: 20af9189-59b9-41e2-baad-c2eb8af37ed2
-            userCondition: null
-            warning: null
-            width: 25
-          -
-            elementCondition: null
-            fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            uid: 28b1943c-e52e-4dbe-9e92-b03f8874f343
-            userCondition: null
-            warning: null
-            width: 75
-          -
-            elementCondition: null
-            fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
-            instructions: null
-            label: null
-            required: false
-            tip: null
-            type: craft\fieldlayoutelements\CustomField
-            uid: 880a1010-64a8-4812-8af6-8cbb6498ad80
-            userCondition: null
-            warning: null
-            width: 100
-        name: Seo
-        uid: c03d58fd-dd56-4e0e-a584-2c7cb41ff70d
-        userCondition: null
 handle: landing
-hasTitleField: false
+hasTitleField: true
+icon: null
 name: Landing
+showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
 slugTranslationMethod: site
-sortOrder: 1
 titleFormat: '{section.name|raw}'
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
