@@ -1,4 +1,4 @@
-dateModified: 1757006433
+dateModified: 1757540650
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -89,6 +89,7 @@ meta:
     711053a2-a608-4448-8477-580ff814a7d7: Advanced # Advanced
     1345707a-2b07-4664-b8d2-25fcb9241212: 'flexible - Fun Fact Slide - Content' # flexible - Fun Fact Slide - Content
     19012886-9bc8-45c8-98ca-619268a128d4: 'flexible - Share Slide - Link 1' # flexible - Share Slide - Link 1
+    67672179-938f-44ec-aeea-d4e004a2e66b: Pages # Pages
     a022545d-8a4f-44cf-adcb-3954b7721751: 'SEO Site Name' # SEO Site Name
     a25b1a87-97c8-4590-ab39-5d2a0e5c214e: 'Main Menu' # Main Menu
     a320b687-d7a3-4cba-9a9f-f696c52c859c: 'flexible - Share Slide - Link 3' # flexible - Share Slide - Link 3
@@ -120,6 +121,7 @@ meta:
     ec809547-cd72-4016-92f4-e72a89d6620c: 'Solar System Elements' # Solar System Elements
     ef474ef1-31d2-45c5-8419-cb15202ba296: 'Guided Experiences Tours' # Guided Experiences Tours
     f1df2c63-97e5-49f0-8f4d-1e704d4945ac: Landing # Landing
+    f46a1722-90eb-4ff8-a5c6-358934674aba: Description # Description
     fd26bd16-cdc1-44cf-af77-ceb7ecc98e42: Tours # Tours
     fe975ea4-3c59-478a-9c81-221ecbdd3efb: 'Share Slide' # Share Slide
 plugins:
