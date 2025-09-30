@@ -1,6 +1,115 @@
+cardThumbAlignment: end
 tabs:
   -
     elementCondition: null
+    elements:
+      -
+        autocapitalize: true
+        autocomplete: false
+        autocorrect: true
+        class: null
+        dateAdded: null
+        disabled: false
+        elementCondition: null
+        id: null
+        includeInCards: false
+        inputType: null
+        instructions: null
+        label: null
+        max: null
+        min: null
+        name: null
+        orientation: null
+        placeholder: null
+        providesThumbs: false
+        readonly: false
+        requirable: false
+        size: null
+        step: null
+        tip: null
+        title: null
+        type: craft\fieldlayoutelements\users\UsernameField
+        uid: aee28a43-31c3-403f-b3ad-a073b3fe3a6a
+        userCondition: null
+        warning: null
+        width: 100
+      -
+        attribute: fullName
+        autocapitalize: true
+        autocomplete: false
+        autocorrect: true
+        class: null
+        dateAdded: null
+        disabled: false
+        elementCondition: null
+        id: null
+        includeInCards: false
+        inputType: null
+        instructions: null
+        label: null
+        max: null
+        min: null
+        name: null
+        orientation: null
+        placeholder: null
+        providesThumbs: false
+        readonly: false
+        requirable: true
+        required: false
+        size: null
+        step: null
+        tip: null
+        title: null
+        type: craft\fieldlayoutelements\users\FullNameField
+        uid: 3452f9bb-22b0-48b9-a0db-f711016b2ce2
+        userCondition: null
+        warning: null
+        width: 100
+      -
+        dateAdded: null
+        elementCondition: null
+        id: null
+        includeInCards: false
+        instructions: null
+        label: null
+        orientation: null
+        providesThumbs: false
+        requirable: false
+        tip: null
+        type: craft\fieldlayoutelements\users\PhotoField
+        uid: 1d8fefe3-b338-44d2-a426-ed2bcab152e7
+        userCondition: null
+        warning: null
+        width: 100
+      -
+        autocapitalize: true
+        autocomplete: false
+        autocorrect: true
+        class: null
+        dateAdded: null
+        disabled: false
+        elementCondition: null
+        id: null
+        includeInCards: false
+        inputType: null
+        instructions: null
+        label: null
+        max: null
+        min: null
+        name: null
+        orientation: null
+        placeholder: null
+        providesThumbs: false
+        readonly: false
+        requirable: false
+        size: null
+        step: null
+        tip: null
+        title: null
+        type: craft\fieldlayoutelements\users\EmailField
+        uid: 22cb5b05-3abd-4488-9f36-82e1e530a2d0
+        userCondition: null
+        width: 100
     name: Info
     uid: 82fd314f-e9c1-486c-b999-1cae8a746752
     userCondition: null

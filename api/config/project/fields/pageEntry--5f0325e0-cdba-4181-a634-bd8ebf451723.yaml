@@ -1,5 +1,4 @@
 columnSuffix: null
-contentColumnType: string
 handle: pageEntry
 instructions: null
 name: 'Entry - Page'
@@ -7,17 +6,21 @@ searchable: true
 settings:
   allowSelfRelations: false
   branchLimit: null
-  localizeRelations: false
+  defaultPlacement: end
   maintainHierarchy: false
   maxRelations: null
   minRelations: null
   selectionLabel: 'Add a Page'
+  showCardsInGrid: false
+  showSearchInput: true
   showSiteMenu: true
+  showUnpermittedEntries: true
+  showUnpermittedSections: true
   sources:
     - 'section:f1b8c943-bc12-4001-9e2a-d531379f1aaf'
   targetSiteId: null
   validateRelatedElements: false
   viewMode: null
 translationKeyFormat: null
-translationMethod: site
+translationMethod: none
 type: craft\fields\Entries

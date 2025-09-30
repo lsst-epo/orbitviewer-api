@@ -1,13 +1,14 @@
 columnSuffix: vczrvbad
-contentColumnType: string(255)
 handle: helpUrl
 instructions: null
 name: 'Help URL'
 searchable: false
 settings:
+  fullGraphqlData: false
   maxLength: 255
+  showLabelField: false
   types:
     - url
 translationKeyFormat: null
 translationMethod: language
-type: craft\fields\Url
+type: craft\fields\Link

@@ -1,5 +1,4 @@
 columnSuffix: llyrqmdu
-contentColumnType: 'decimal(12,2)'
 handle: elementDiameter
 instructions: 'Diameter in KM'
 name: Diameter
@@ -13,6 +12,7 @@ settings:
   previewCurrency: null
   previewFormat: decimal
   size: null
+  step: null
   suffix: null
 translationKeyFormat: null
 translationMethod: none

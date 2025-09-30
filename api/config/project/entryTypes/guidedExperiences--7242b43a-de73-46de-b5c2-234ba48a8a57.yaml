@@ -1,5 +1,8 @@
+color: null
+description: null
 fieldLayouts:
   84f67ddb-6409-4d18-8544-129795a36da5:
+    cardThumbAlignment: end
     tabs:
       -
         elementCondition: null
@@ -9,9 +12,11 @@ fieldLayouts:
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: null
             disabled: false
             elementCondition: null
             id: null
+            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -20,8 +25,9 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
-            requirable: false
+            required: true
             size: null
             step: null
             tip: null
@@ -38,10 +44,15 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: null
+            editCondition: null
             elementCondition: null
             fieldUid: 8fff3c50-28ba-4af7-8166-e3d82a23ae26 # SEO Title
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -50,10 +61,15 @@ fieldLayouts:
             warning: null
             width: 25
           -
+            dateAdded: null
+            editCondition: null
             elementCondition: null
             fieldUid: acbea415-ee80-409c-90e2-90ac546820a6 # SEO Description
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -62,10 +78,15 @@ fieldLayouts:
             warning: null
             width: 75
           -
+            dateAdded: null
+            editCondition: null
             elementCondition: null
             fieldUid: 294114c2-b0a2-4c1e-971b-f6ab75b78e88 # SEO Share Image
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -78,11 +99,12 @@ fieldLayouts:
         userCondition: null
 handle: guidedExperiences
 hasTitleField: true
+icon: null
 name: 'Guided Experiences Page'
+showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
 slugTranslationMethod: site
-sortOrder: 1
 titleFormat: null
 titleTranslationKeyFormat: null
 titleTranslationMethod: site

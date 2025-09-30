@@ -1,5 +1,4 @@
 columnSuffix: null
-contentColumnType: string
 handle: tourPicker
 instructions: null
 name: 'Tour Picker'
@@ -7,16 +6,18 @@ searchable: false
 settings:
   allowSelfRelations: false
   branchLimit: 1
-  localizeRelations: false
+  defaultPlacement: end
   maintainHierarchy: true
   maxRelations: null
   minRelations: null
   selectionLabel: null
+  showCardsInGrid: false
+  showSearchInput: true
   showSiteMenu: false
   source: 'group:fd26bd16-cdc1-44cf-af77-ceb7ecc98e42' # Tours
   targetSiteId: null
   validateRelatedElements: false
   viewMode: null
 translationKeyFormat: null
-translationMethod: site
+translationMethod: none
 type: craft\fields\Categories
