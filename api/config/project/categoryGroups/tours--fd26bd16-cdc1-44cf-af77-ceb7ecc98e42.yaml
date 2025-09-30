@@ -1,6 +1,7 @@
 defaultPlacement: end
 fieldLayouts:
   27c72910-179e-4a2e-a075-8034d8e4559e:
+    cardThumbAlignment: end
     tabs:
       -
         elementCondition: null
@@ -10,9 +11,11 @@ fieldLayouts:
             autocomplete: false
             autocorrect: true
             class: null
+            dateAdded: null
             disabled: false
             elementCondition: null
             id: null
+            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -21,6 +24,7 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
+            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -33,10 +37,15 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: null
+            editCondition: null
             elementCondition: null
             fieldUid: 96bb1d3d-4098-4112-9dc3-dbffbe908c62 # Tour Preview
+            handle: null
+            includeInCards: false
             instructions: null
             label: null
+            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField

@@ -1,13 +1,14 @@
 columnSuffix: eoxhumdw
-contentColumnType: string(255)
 handle: howToUseUrl
 instructions: null
 name: 'How to use URL'
 searchable: false
 settings:
+  fullGraphqlData: false
   maxLength: 255
+  showLabelField: false
   types:
     - url
 translationKeyFormat: null
 translationMethod: language
-type: craft\fields\Url
+type: craft\fields\Link

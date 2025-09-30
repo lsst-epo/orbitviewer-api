@@ -1,5 +1,4 @@
 columnSuffix: mcdivsrn
-contentColumnType: integer(10)
 handle: duration
 instructions: null
 name: Duration
@@ -13,6 +12,7 @@ settings:
   previewCurrency: null
   previewFormat: decimal
   size: null
+  step: null
   suffix: null
 translationKeyFormat: null
 translationMethod: none

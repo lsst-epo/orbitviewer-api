@@ -1,0 +1,12 @@
+columnSuffix: null
+handle: featuredTour
+instructions: null
+name: 'Featured Tour'
+searchable: false
+settings:
+  default: false
+  offLabel: 'Not Featured'
+  onLabel: Featured
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

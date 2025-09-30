@@ -1,5 +1,4 @@
 columnSuffix: null
-contentColumnType: string
 handle: elementCategory
 instructions: null
 name: 'Element Category'
@@ -7,16 +6,18 @@ searchable: false
 settings:
   allowSelfRelations: false
   branchLimit: 1
-  localizeRelations: false
+  defaultPlacement: end
   maintainHierarchy: true
   maxRelations: null
   minRelations: null
   selectionLabel: null
+  showCardsInGrid: false
+  showSearchInput: true
   showSiteMenu: false
   source: 'group:c0bf4db2-5962-4328-abcd-e6a0af1fbfc5' # Object types
   targetSiteId: null
   validateRelatedElements: false
   viewMode: null
 translationKeyFormat: null
-translationMethod: site
+translationMethod: none
 type: craft\fields\Categories

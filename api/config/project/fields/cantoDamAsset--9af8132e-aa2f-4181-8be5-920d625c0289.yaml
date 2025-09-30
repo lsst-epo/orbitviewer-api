@@ -4,7 +4,13 @@ instructions: null
 name: 'Canto DAM Asset'
 searchable: false
 settings:
-  cantoAssetPickerType: singleImagePicker
+  errorMessage: 'Component class ''lsst\cantodamassets\fields\CantoDamAsset'' belongs to a disabled plugin (Canto DAM Assets).'
+  expectedType: lsst\cantodamassets\fields\CantoDamAsset
+  settings:
+    __assoc__:
+      -
+        - cantoAssetPickerType
+        - singleImagePicker
 translationKeyFormat: null
 translationMethod: none
-type: lsst\cantodamassets\fields\CantoDamAsset
+type: craft\fields\MissingField
