@@ -1,5 +1,4 @@
 columnSuffix: goienywe
-contentColumnType: smallint(1)
 handle: complexity
 instructions: '1 - 5'
 name: Complexity
@@ -13,6 +12,7 @@ settings:
   previewCurrency: null
   previewFormat: none
   size: null
+  step: null
   suffix: null
 translationKeyFormat: null
 translationMethod: none

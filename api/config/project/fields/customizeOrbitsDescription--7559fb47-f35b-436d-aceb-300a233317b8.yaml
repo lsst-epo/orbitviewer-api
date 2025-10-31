@@ -1,5 +1,4 @@
 columnSuffix: wvpujofd
-contentColumnType: text
 handle: customizeOrbitsDescription
 instructions: null
 name: 'Customize Orbits Description'
@@ -8,7 +7,6 @@ settings:
   byteLimit: null
   charLimit: null
   code: false
-  columnType: null
   initialRows: 4
   multiline: true
   placeholder: null

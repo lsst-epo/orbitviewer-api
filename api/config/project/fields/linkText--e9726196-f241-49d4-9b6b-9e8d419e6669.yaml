@@ -1,5 +1,4 @@
 columnSuffix: null
-contentColumnType: text
 handle: linkText
 instructions: 'Text for optional link at end of block. Will be populated by the page title if left blank and referencing an internal entry.'
 name: 'Link Text'
@@ -8,7 +7,6 @@ settings:
   byteLimit: null
   charLimit: null
   code: false
-  columnType: null
   initialRows: 4
   multiline: false
   placeholder: null

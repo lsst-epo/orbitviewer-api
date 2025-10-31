@@ -1,4 +1,4 @@
-dateModified: 1755722983
+dateModified: 1759190510
 email:
   fromEmail: $EMAIL_FROM_ADDRESS
   fromName: $EMAIL_SENDER_NAME
@@ -35,7 +35,7 @@ meta:
     1f8a9fe3-0e8c-4e3f-b6ce-0e1421fe0fbb: 'Landing Center Title' # Landing Center Title
     1fb61d18-ada9-4dd0-9334-600a98231427: 'Side-By-Side Text and Image' # Side-By-Side Text and Image
     2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: ES # ES
-    2f6b435a-5a6c-4f32-b8b5-4aae301d1738: 'Customize Orbits' # Customize Orbits
+    2c55c489-c226-4b6b-b618-6b8f87b3f700: 'Featured Tour' # Featured Tour
     3cbe4fda-03b6-4891-b0ac-892db5b17bb8: Landing # Landing
     3cc93b5a-26a7-43b2-98d9-1d346f30440b: 'flexible - Share Slide - Text' # flexible - Share Slide - Text
     3d8ca907-3314-4e70-8195-610c75f3ef68: 'flexible - Share Slide - Link 4 Text' # flexible - Share Slide - Link 4 Text
@@ -56,7 +56,6 @@ meta:
     8fff3c50-28ba-4af7-8166-e3d82a23ae26: 'SEO Title' # SEO Title
     9ad945a2-a807-403c-aec6-ef28c7849b73: 'Landing Logo' # Landing Logo
     9af8132e-aa2f-4181-8be5-920d625c0289: 'Canto DAM Asset' # Canto DAM Asset
-    9d39f53e-449f-4d2a-8e27-e6c4bf0ad31b: About # About
     9f3fe24e-520b-44fc-97f5-fa9a2d2622b0: 'flexible - Default Slide - Content' # flexible - Default Slide - Content
     9f7b6402-ce3b-4a99-9180-c0c6c3915642: flexible # flexible
     16e8811b-6d9d-44e1-83b2-16c02e1dcd5a: 'Landing Version' # Landing Version
@@ -90,6 +89,7 @@ meta:
     711053a2-a608-4448-8477-580ff814a7d7: Advanced # Advanced
     1345707a-2b07-4664-b8d2-25fcb9241212: 'flexible - Fun Fact Slide - Content' # flexible - Fun Fact Slide - Content
     19012886-9bc8-45c8-98ca-619268a128d4: 'flexible - Share Slide - Link 1' # flexible - Share Slide - Link 1
+    67672179-938f-44ec-aeea-d4e004a2e66b: Pages # Pages
     a022545d-8a4f-44cf-adcb-3954b7721751: 'SEO Site Name' # SEO Site Name
     a25b1a87-97c8-4590-ab39-5d2a0e5c214e: 'Main Menu' # Main Menu
     a320b687-d7a3-4cba-9a9f-f696c52c859c: 'flexible - Share Slide - Link 3' # flexible - Share Slide - Link 3
@@ -108,20 +108,19 @@ meta:
     c4ff4a71-a62a-4cb6-b445-6ae6c12381a6: 'Page Content' # Page Content
     c5bc0051-46f3-4ac7-bb8a-a7b808c4b0a7: 'flexible - Intro Slide - Thumbnail' # flexible - Intro Slide - Thumbnail
     c5e2a1ff-7d99-4956-8b74-c79601fad6fe: 'flexible - Default Slide - Title' # flexible - Default Slide - Title
-    c95c837c-b84e-47a5-9903-3c629af16aa8: 'Orbit Viewer' # Orbit Viewer
     ccafd7ca-3768-4e9f-92c6-56ed30825dd3: 'flexible - Share Slide - Link 1 Text' # flexible - Share Slide - Link 1 Text
     d019727b-a6d5-43d9-a688-f10df985a87e: Link # Link
     d3d6215a-2225-4541-b17d-74eb58445af5: 'Default Slide' # Default Slide
     d77e6076-0548-4254-b697-8ffa9980271b: 'flexible - Share Slide - Title' # flexible - Share Slide - Title
-    dfabaec1-0da0-4246-bb1c-ae480c8b72a8: 'How to Use' # How to Use
     e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d: General # General
     e8dcbb92-c170-4e0e-831b-d068fbd2f9b6: 'About Image' # About Image
-    e84d2431-7574-44a8-9e23-019823b2dfc3: Default # Default
+    e84d2431-7574-44a8-9e23-019823b2dfc3: Tour # Tour
+    e24265aa-f05d-42eb-8d44-1ead0005aec1: Link # Link
     e9726196-f241-49d4-9b6b-9e8d419e6669: 'Link Text' # Link Text
     ea7cafd8-b2d5-4ffb-b9fb-9a617eef9dfb: Complexity # Complexity
-    ec809547-cd72-4016-92f4-e72a89d6620c: Default # Default
+    ec809547-cd72-4016-92f4-e72a89d6620c: 'Solar System Elements' # Solar System Elements
     ef474ef1-31d2-45c5-8419-cb15202ba296: 'Guided Experiences Tours' # Guided Experiences Tours
-    f1df2c63-97e5-49f0-8f4d-1e704d4945ac: Landing # Landing
+    f46a1722-90eb-4ff8-a5c6-358934674aba: Description # Description
     fd26bd16-cdc1-44cf-af77-ceb7ecc98e42: Tours # Tours
     fe975ea4-3c59-478a-9c81-221ecbdd3efb: 'Share Slide' # Share Slide
 plugins:

@@ -1,5 +1,4 @@
 columnSuffix: null
-contentColumnType: string
 handle: seoImage
 instructions: null
 name: 'SEO Share Image'
@@ -11,9 +10,9 @@ settings:
   allowedKinds:
     - image
   branchLimit: null
+  defaultPlacement: end
   defaultUploadLocationSource: 'volume:e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d' # General
   defaultUploadLocationSubpath: null
-  localizeRelations: false
   maintainHierarchy: false
   maxRelations: 1
   minRelations: null
@@ -24,6 +23,8 @@ settings:
   restrictedLocationSource: 'volume:e5d596f6-1cc0-4b55-8c33-2a6dae6aa91d' # General
   restrictedLocationSubpath: null
   selectionLabel: null
+  showCardsInGrid: false
+  showSearchInput: true
   showSiteMenu: false
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
@@ -32,5 +33,5 @@ settings:
   validateRelatedElements: false
   viewMode: list
 translationKeyFormat: null
-translationMethod: site
+translationMethod: none
 type: craft\fields\Assets

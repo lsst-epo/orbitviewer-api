@@ -2,10 +2,14 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
+    uid: 52519e78-2e53-47c5-aa84-c2345d520393 # About
+  -
+    uid: beb4775c-f7bf-42c7-913d-59d167a09341 # How to Use
+  -
     uid: 3cbe4fda-03b6-4891-b0ac-892db5b17bb8 # Landing
-handle: landing
+handle: pages
 maxAuthors: 1
-name: Landing
+name: Pages
 previewTargets:
   -
     __assoc__:
@@ -13,21 +17,24 @@ previewTargets:
         - label
         - 'Primary entry page'
       -
-        - urlFormat
-        - '{url}'
-      -
         - refresh
         - '1'
+      -
+        - urlFormat
+        - '{url}'
 propagationMethod: all
 siteSettings:
   2c2e1c6a-eb4d-44f1-9a43-8d79b326f354: # ES
     enabledByDefault: true
-    hasUrls: false
+    hasUrls: true
     template: null
-    uriFormat: null
+    uriFormat: '{parent.uri}/{slug}'
   547128fa-4529-4483-9968-66425996b69f: # EN
     enabledByDefault: true
-    hasUrls: false
+    hasUrls: true
     template: null
-    uriFormat: null
-type: single
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: null
+  uid: ea35257e-d282-4744-955d-ae928f20605c
+type: structure
